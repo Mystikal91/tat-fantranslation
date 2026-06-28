@@ -822,7 +822,38 @@
         "8F270C0C44C645BDF704EFB699DF2BB4": "Continua",
         "99BFEC674572A1749EEF0E9E9AE0B59A": "Continua",
         "625BE91B4C7A6BF5C1525DB99A4D1E05": "Diario Contratti",
-        "A86E0FF443056070043FC19F1E36F8C8": "Diario Contratti"
+        "A86E0FF443056070043FC19F1E36F8C8": "Diario Contratti",
+        "16AC29E440015878FBDE29992DC2B5F3": "Manovella",
+        "D5CE424B4E0EFFA7E70E04AEFE174558": "Manovella",
+        "5ED4DF6C402535AB8C6BFC9C1EC6833E": "Personalizza Equipaggiamento",
+        "CDAAC15440DEAA224F79E3B944F832A2": "Personalizza Equipaggiamento",
+        "6682420C4347F8DB816D4E9A8FE2A952": "Chiave Venditori di Diamanti",
+        "1C1A2FD8498BFBE6352174899EE6816A": "Lascia",
+        "246D291547F5511A4D24F99CB6B29ABE": "Lascia",
+        "3904F288400D0FC97722FC842B0D584C": "Lascia",
+        "AC6A48B044D833641988AF9A65EF8542": "Lascia",
+        "B36E8E3C4F3A34D24A1B7DB07E30E56D": "Lascia",
+        "65B8EDC348BCFCA55A69F4B66BACA4FA": "Lascia ",
+        "B847A1B24015CF72A6DFD8AF63B85205": "Chiave della Magione Elway",
+        "B2BC7F644E8992949C19A7B2CD0658CB": "Nemici nella Zona di Evocazione",
+        "E552904B4B8D4B9FA2970B91EFC1F5B2": "Entra nella Partita",
+        "AD1BA76B426DB7844B593EA7BD2F71FA": "Attrezzatura",
+        "D28803864478E761B050F7B97788489F": "Errore: Disconnesso dal Server",
+        "389772494A519414593EC2B78451458C": "Esamina",
+        "6BA891F7445DDCB2BECF86ABEF0B0AFE": "Torna al Menu Principale",
+        "F5968C2D4F25A4507F4C61ADC383C75C": "Primo Piano",
+        "B2DCA8A44B05F96203DD8BA603A06BE4": "Panificio Firthbank",
+        "433DA4EF462FBE07C2FCE4915817207B": "La Chiave del Panificio",
+        "3561D8394D753913EF3C61B41E9DEE50": "Passa dalla Mappa agli Indizi",
+        "93929D06479EDFABE7C2ECBEEFE411D2": "Galleria",
+        "16F8044240EAB722E9581AAD8AB60305": "Generico",
+        "AB88502E4B72E2007892CC8F0AFF5CE6": "Supera la telecamera con una bomba fumogena",
+        "13C4EF9C419CDDBC3D3EBC934B271A86": "Chiave del Grand Hotel",
+        "8F118E074F5E1840BB808B935F57B3AA": "Piano Terra",
+        "8F6CAEC4490DC5B5D85D70AEE9F0F3FC": "Chiave Piano Terra",
+        "C49573B14E0840F9FA9353A86DCE6504": "Caserma",
+        "05C7F6C4444DF32070196ABE94425CD7": "Chiave Caserma",
+        "96DED2914C90510BE2059C9442880715": "Chiave della Caserma"
     },
     "Actor": {
         "InvalidScale": "Scale '{0}' is not valid."
@@ -1288,7 +1319,8 @@
     },
     "ST_BlackMarket": {
         "Thief.Chameleon.Description": "A playable thief who uses Glamour to disguise himself and pass unseen among his adversaries. Glamour does not fool devices. Unlocked in Contract 3.",
-        "Difficulty.Hard.Description": "Allows Missions to be taken at the hardest difficulty level. Provides a larger bonus to XP and monetary earnings. Unlocked in Contract 8."
+        "Difficulty.Hard.Description": "Allows Missions to be taken at the hardest difficulty level. Provides a larger bonus to XP and monetary earnings. Unlocked in Contract 8.",
+        "Map.Guildhall.Title": "Caserma dei Conestabili"
     },
     "ST_Characters": {
         "Name.Default": "NPC"
@@ -1731,5 +1763,21 @@
     },
     "ST_Metagame": {
         "Credits": "Crediti"
+    },
+    "ST_Contract11_PaintingFiles": {
+        "Contract11.QuestObjectLocation": "Archivi Caserma dei Conestabili",
+        "Contract11.Journal": "La Gilda ti ha incaricato di raccogliere ulteriori informazioni sulle Pietre di Guardia dagli archivi della Caserma dei Conestabili. Si spera che ciò possa far luce sullo strano dipinto che hai rubato dagli Elway."
+    },
+    "ST_Contract13_OldMapPt1": {
+        "Contract13.Journal": "Un personaggio misterioso ti ha contattato tramite l’Elettrogramma per proporti un contratto “in nero”: recuperare un’antica mappa di Kilcairn che possa aiutarti a individuare la posizione originaria della sesta Pietra di Guardia. Il misterioso contatto ti ha detto che la mappa si trova negli archivi della Caserma dei Conestabili, quindi inizierai la tua ricerca proprio lì.",
+        "Contract13.QuestObjectLocation": "Archivi Caserma dei Conestabili",
+        "Contract13.Intro": "Che aggeggio particolare.\nÈ però maledettamente difficile scriverci sopra.\nRappresento una parte interessata.\nCosa vogliamo?\nAiutarvi a trovare l’ultima Pietra di Guardia.\nPerché?\nDiciamo solo che ci piace l’idea che ci dobbiate un favore.\nVi servirà una vecchia mappa della città.\nControllate presso la Caserma dei Conestabili.\nSaluti!",
+        "Contract13.Dscription": "Recupera un'antica mappa di Kilcairn da qualche parte nella sede della Caserma dei Conestabili."
+    },
+    "ST_Contract15_ArrestReport": {
+        "Contract15.Journal": "La Gilda ci ha contattati di nuovo. Sembra che una delle spie del Kaiser sia stata arrestata e sia ora detenuta presso la Caserma dei Conestabili. Dato che il Kaiser sta cercando la Pietra di Guardia, scoprire ciò che questa spia sa è della massima importanza."
+    },
+    "ST_Contract16_ValuableTrinket": {
+        "Contract16.QuestObjectLocation": "Caserma dei Conestabili"
     }
 }
