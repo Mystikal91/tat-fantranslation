@@ -758,7 +758,7 @@
         "6E576E3D43A1493D3D1E258B923D2B76": "Chiave dell'appartamento 420",
         "904B0D4E4E01A66B20AF99AF58DE83E3": "Chiave dell'appartamento 713",
         "746C4B32446BB2CB0F65CBB0065DDBFD": "Chiave dell'appartamento 959",
-        "ED91DE4A4D480791E93E37861017986B": "Chiave dell'appartamento",
+        "ED91DE4A4D480791E93E37861017986B": "Chiave dell'Appartamento",
         "E97083D3423031C05FB44CA3BE5D69C0": "Appartamento al piano inferiore",
         "0EA205794620F6B549E889AA96202423": "Applica Modifiche",
         "1F99285542C435787C09378D8B607505": "Archivi ",
@@ -803,7 +803,7 @@
         "7C9359284981932D7FB2B9A1E0C4E73D": "Sale Cerimoniali",
         "E310BEED4FC702A92DF0FF8ED0FEA3AF": "Gioca",
         "0B077A7646624A06A80813B2154469DF": "Camere",
-        "B067ECA34D664CA8732FE19DF212753B": "Cosmetici Camaleonte",
+        "B067ECA34D664CA8732FE19DF212753B": "Cosmetici Chameleon",
         "A95C9EE14454AA2CD5DC4D8C39226EB9": "Cambia Decorazione",
         "AC60BA9448158F33C33A2AA89EE7E3F6": "Chiave del Baule",
         "0877648D4CBA8AFBDB095082E6A6090E": "Chiudi",
@@ -827,7 +827,7 @@
         "D5CE424B4E0EFFA7E70E04AEFE174558": "Manovella",
         "5ED4DF6C402535AB8C6BFC9C1EC6833E": "Personalizza Equipaggiamento",
         "CDAAC15440DEAA224F79E3B944F832A2": "Personalizza Equipaggiamento",
-        "6682420C4347F8DB816D4E9A8FE2A952": "Chiave Venditori di Diamanti",
+        "6682420C4347F8DB816D4E9A8FE2A952": "Chiave Venditore di Diamanti",
         "1C1A2FD8498BFBE6352174899EE6816A": "Lascia",
         "246D291547F5511A4D24F99CB6B29ABE": "Lascia",
         "3904F288400D0FC97722FC842B0D584C": "Lascia",
@@ -853,7 +853,107 @@
         "8F6CAEC4490DC5B5D85D70AEE9F0F3FC": "Chiave Piano Terra",
         "C49573B14E0840F9FA9353A86DCE6504": "Caserma",
         "05C7F6C4444DF32070196ABE94425CD7": "Chiave Caserma",
-        "96DED2914C90510BE2059C9442880715": "Chiave della Caserma"
+        "96DED2914C90510BE2059C9442880715": "La Chiave della Caserma",
+        "F55FEE764FB3395D36A66F83F1A6F653": "NOME DELL'OGGETTO",
+        "2E5459F24B9F50376849ECBD50987E88": "Interagisci",
+        "440686A9411CCE43CEFE20B0DF7120FD": "Interagisci",
+        "6B4C139D4280D6A0160D6D9C361AAC73": "Interagisci",
+        "89AA7D1C4DCB602AE35A32A6185AD9B5": "Interagisci",
+        "AF35130349D74C3A0714869B509DC537": "Interagisci",
+        "5ECE17C44D4BC7067DD7F79158199804": "Chiave del Gioielliere",
+        "ABF7CB55474154B0614228B4E543A5FB": "Chiave",
+        "EDE417F94D9A33A8BE6E0AB3956A56BB": "La Chiave dell'Appartamento",
+        "D07CCEBB430B37F1FE6B8BBA22361692": "Chiave dell'Appartamento 2112",
+        "49C7D9F148FDBA6AE16F049A18408B50": "Chiave dell'Appartamento 42",
+        "076C9D694100A6D2F7BCDF82E893A792": "Chiave dell'Appartamento 420",
+        "6A493EF342F8DFAA7C5BB584C9FC0E0D": "Chiave dell'Appartamento 713",
+        "4609E1CE403384E5808E2B8893CF1EFE": "Chiave dell'Appartamento 959",
+        "3A6A39D8472F82CC109BD688385DDD0C": "Chiave della Casa del Tè Orchidea sull'High",
+        "E776A5B64D910C34D4ED8C90FB47AD57": "Chiave del Bar Stanhagen",
+        "AE47C5314D2E5BA6317E0080FD8FD159": "La Chiave del Grand Hotel",
+        "9176FA254A13AE4D5C8E6685016A169A": "Chiave del Caveau",
+        "BB1EF3B041B8D0F8A3B5C5A20F10FD81": "Chiave del Caveau",
+        "C33828D24EA21BFDBED95EA21CA6176E": "Chiave del Caveau",
+        "CE341ADC4B57316ED8058086790DFF1F": "Chiave del Caveau",
+        "960B291A4C4A79CCA8A98CA97E45A4CC": "La Chiave di una Cassa nel Tutorial",
+        "C5AFF7F24893DCD2F3EAB2A98E8F9296": "La Chiave della Libreria",
+        "4928AC4F49E23E1E951AEDA7283B861F": "La Chiave del Negozio d'Abiti",
+        "6853C6CF4AD41096F24306A9973C8DBB": "La Chiave del Venditore di Diamanti",
+        "E629495B47B15794B06B978FE747B5C5": "La Chiave della Magione Elway",
+        "CF29AA5B4209A601289673B9494C45C3": "La Chiave del Pub",
+        "924EA7CA44BF4AAB3562B0BE485CC26A": "La Chiave della Sartoria",
+        "FDA329DB484FC2127D81A6BCD61ECE26": "La Chiave dell'Enoteca",
+        "E5C9FC6C4A8DDBC123BDB09C19C16519": "Chiavi Ottenute",
+        "93A665B84394D0217A81CF96EE9E04E7": "Vicolo di Kilcairn",
+        "D8163A4949DE857A2719C6AA88A1A44E": "ETICHETTA",
+        "6E7A6D1E4027AE1CD3A9A0BF0C70F3F9": "AUMENTO DI LIVELLO!",
+        "2334F1174C59D5A4E82CB4BD6314CDB0": "Scopri il Covo dei Ladri",
+        "F51F2FF347D51AE9F5293CABCBAB99BF": "Sinistra",
+        "D2F06B94482B55EB15E2F49AACC55A57": "Livello 2",
+        "AD9C622A41C3CF2546FA9FA4C0E6AAA6": "Livello 3",
+        "8B4C117444C09873AE6B93A479489972": "Livello {CurrentLevel}",
+        "A7F87FED46C97E4D83B324BA2CC172B1": "Serrature Scassinate",
+        "FC5C8D05433F40F2F4471583807C2AB0": "Bottino",
+        "0D99C201499A2B8E64A99284F9B8EADC": "Mappa",
+        "62B0524045CDD34F1E1AF0BF9E96B869": "Corpo a corpo",
+        "E4BA04604999F8BC22F95ABB8EC404AE": "Corpo a corpo",
+        "321D4A9842ECA8E8A6D70CB785898B56": "Passa alla stanza successiva",
+        "89E7A27A4591DDCC807CFD927A30CE06": "Passa alla stanza successiva",
+        "33D611F34B684381144869AB693BCE4B": "Nome",
+        "4697A22D4BCB7B70F55CD5ACCE18CE98": "Nome",
+        "7D338D3644C3D2A2AB97CABC0DD64642": "Nome",
+        "D92AE9BB4D296CE1288044AA15F279A7": "Nome",
+        "F8A93DDA4D5244F74552F88FB6EE9359": "Nome",
+        "05C0FEF94767DDFEBAA9418C7714A2AD": "No",
+        "3AC463AE43F6A8E16A55898D7CAF55EC": "Nessuno",
+        "550B643548CEA46F604216BB59703294": "Nessuno",
+        "57867D38405803E4ACAD32BF91C6F13C": "Nessuno",
+        "870877EC4E582A68E18374B80CCCF49C": "Nessuno",
+        "CDE77DDB4D3C4BFFFE174393EB1644A6": "Nessuno",
+        "18A869D242E8BA05F60C60B0FC34DE86": "OK",
+        "1C1835A74FBB4A1030B1F38084A5D1BF": "Apri",
+        "256FA62C46CEE359377EB7BC7A675C05": "Apri",
+        "6E9C87844C62F7336FE2C29BD7032D2C": "Apri",
+        "CCEA05A24E930D8A00E96BBC8D997BE4": "Apri",
+        "E8BFCE824A462A5E8439A7BCAF063D81": "Apri",
+        "01247AFD4817A4FACBB1CC9B2D4B7A82": "Apri Cancello",
+        "D37BFBA94FABEB378EF4F2936FBF2CBF": "Apri Cancello",
+        "FD8E145E4FB28DBFB1D10F9BFDD91877": "Apri Diario delle Missioni",
+        "3504C7A44F22C8E1D145D183AEF21759": "Apre le porte nel Seminterrato",
+        "123BECEC47358375942383BE0D75ABF6": "Apre le porte nella Magione",
+        "291A4C7E4DC4AAC7BB0485BFEBB5EED2": "Apre le porte nella Magione",
+        "03BA80E34F055C99D333AA8C7C0A6BFC": "Apre alcune serrature",
+        "AEBB8CAB443EF1054C8C31BE469BBEB8": "Chiave Orchidea sull'High",
+        "FD6B563C4238119FF4143E8F8DC25B3E": "Membri del Gruppo (1/4)",
+        "9FA6681D4442FDF0DCB449991A90EFB5": "Pembroke & Figlie - Sarte",
+        "D96CBC53408B244AD1AD37987265940A": "Prendi",
+        "A7AA942B48B9B5B6C8AD408DBACDD939": "Prendi la Chiave",
+        "605D8BAC43FB3AC936F9C7B12CE66DD1": "Responsabile del progetto",
+        "59B6218C4D30D61F013058814EFE4A6B": "Chiave del Pub",
+        "5D0A1E3D4521D3C3C6E536BE8B0527CD": "Tira il Barattolo",
+        "2DE1F25D47944FB5CA49B2BA0015B30E": "Tira il Quadro",
+        "C14F6B0740FC0795BE9467A7CF7E812B": "Tira la Bilancia",
+        "75DFB46C4C5AE7B5531F06A10870736C": "Pronto",
+        "EAD4920844DB9E0A27329CBE5555FD83": "Rimuovi Travestimento",
+        "DE5011784AF2C11563E09F9DDC14E52E": "Rimuovi Amico",
+        "1B3A2AD14B2A86C100742F94576FB580": "Rigenerati",
+        "1BDD024A46114336847B90B5113EE2B6": "Rigenerati Qui",
+        "56BA6F9F46EB37ADFE9335B7403A3A4F": "Ritardo della rigenerazione sul posto per {Seconds} {Seconds}|plural(one=Secondo,other=Secondi)",
+        "659ECC724E498AD1CDD16F9708CA81CD": "Annulla Modifiche",
+        "1D1322774169072B865B59B1701E9CEA": "Rianimazione da un Alleato",
+        "6D360ADB41AF6C6EC1AEC497B22751B2": "Destra",
+        "9E203849428FBA1FBB9E968F681EE6C4": "Tetto",
+        "7F6320C54F296FEC774678AF40D33362": "CERCA",
+        "2812591E40D5A945938155AB6508AC6B": "Secondo piano",
+        "F1ECA6AB495D01AB17E64BB06D6C2627": "Chiave del Secondo Piano",
+        "F1EC272346E02467DDA68987D9556F63": "Invia richiesta di amicizia",
+        "2BD8CF9848376CFEF1EC538BBA479746": "Scarpe",
+        "57F1F12E40BC3CC9D337F685EDD1B0DE": "Mostra infografica {Class}",
+        "4E8C2E3F4C3FC1F75BAA229DD6C2EE77": "Supera di nascosto la guardia",
+        "DBEAE0D04F19EA66F482E7AE447199FA": "Supera di nascosto la guardia",
+        "2309B89943B7EC9DAF87C4AE93AEF55D": "Da solo",
+        "2F05DD684C199315B4D4D9BA0AE7B5FF": "Cosmetici Spider",
+        "7AF318914C665A12EA4CBE92E604CF10": "Numero di Rigenerazioni"
     },
     "Actor": {
         "InvalidScale": "Scale '{0}' is not valid."
@@ -1297,7 +1397,7 @@
     },
     "Scalability": {
         "QualityCineLabel": "Cinematic",
-        "QualityEpicLabel": "Epic",
+        "QualityEpicLabel": "Epico",
         "QualityHighLabel": "High",
         "QualityLowLabel": "Low",
         "QualityMediumLabel": "Medium"
@@ -1320,13 +1420,62 @@
     "ST_BlackMarket": {
         "Thief.Chameleon.Description": "A playable thief who uses Glamour to disguise himself and pass unseen among his adversaries. Glamour does not fool devices. Unlocked in Contract 3.",
         "Difficulty.Hard.Description": "Allows Missions to be taken at the hardest difficulty level. Provides a larger bonus to XP and monetary earnings. Unlocked in Contract 8.",
-        "Map.Guildhall.Title": "Caserma dei Conestabili"
+        "Map.Guildhall.Title": "Caserma dei Conestabili",
+        "Outfit.Chameleon.BowlerA.Description": "Un look con bombetta per Chameleon. Sbloccato al livello 18.",
+        "Outfit.Chameleon.CapA.Description": "Un look con cappellino per Chameleon. Sbloccato al livello 20.",
+        "CallingCard.Chameleon.Gold.Description": "Un biglietto da visita più elegante per Chameleon. Si sblocca al livello 14.",
+        "CallingCard.Chameleon.Silver.Description": "Un biglietto da visita di classe per Chameleon. Si sblocca al livello 8.",
+        "Outfit.Chameleon.BeardA.Description": "Un look con barba folta per Chameleon. Sbloccabile al livello 9.",
+        "Outfit.Chameleon.GlassesA.Description": "Un look con gli occhiali per Chameleon. Sbloccato al livello 12.",
+        "Outfit.Chameleon.MonocleA.Description": "Un look con monocolo per Chameleon. Sbloccabile al livello 15.",
+        "Outfit.Chameleon.MustacheA.Description": "Un look con i baffi per Chameleon. Sbloccato al livello 7.",
+        "Outfit.Chameleon.TopHatA.Description": "Un look con cilindro per Chameleon. Sbloccabile al livello 13.",
+        "Outfit.Chameleon.HairB.Description": "Un'acconciatura alternativa per Chameleon. Sbloccabile al livello 16.",
+        "Outfit.Chameleon.BodyAltA.Description": "Un abito alternativo per Chameleon. Si sblocca al livello 25.",
+        "Thief.Chameleon.Title": "Il Camaleonte",
+        "Outfit.Chameleon.HeadDefault.Description": "Il look classico di Chameleon.",
+        "Outfit.Chameleon.BodyDefault.Description": "L'abbigliamento classico per Chameleon.",
+        "CallingCard.Chameleon.Magic.Description": "Il biglietto da visita più elegante per Chameleon. Si sblocca al livello 22.",
+        "CallingCard.Chameleon.Default.Description": "Il biglietto da visita classico di Chameleon.",
+        "Outfit.Spider.BowlerA.Description": "Un look con bombetta per Spider. Sbloccabile al livello 2.",
+        "CallingCard.Spider.Gold.Description": "Un biglietto da visita più elegante per Spider. Si sblocca al livello 10.",
+        "CallingCard.Spider.Silver.Description": "Un biglietto da visita di classe per Spider. Si sblocca al livello 8.",
+        "Outfit.Spider.BeardA.Description": "Un look con la barba folta per Spider. Sbloccabile al livello 7.",
+        "Outfit.Spider.GlassesA.Description": "Un look con gli occhiali per Spider. Sbloccato al livello 12.",
+        "Outfit.Spider.NoCap.Description": "Un look senza cappello per Spider. Sbloccato al livello 11.",
+        "Outfit.Spider.HeadAltA.Description": "Un cappello abbinato al completo \"Tarantola\" di Spider. Sbloccabile al livello 10.",
+        "Outfit.Spider.MonocleA.Description": "Un look con monocolo per Spider. Sbloccabile al livello 15.",
+        "Outfit.Spider.MustacheA.Description": "Un look con i baffi per Spider. Sbloccabile al livello 5.",
+        "Outfit.Spider.TopHatA.Description": "Un look con cilindro per Spider. Sbloccabile al livello 4.",
+        "Outfit.Spider.BodyAltA.Description": "Un costume alternativo per Spider. Si sblocca al livello 10.",
+        "Thief.Spider.Title": "Il Ragno",
+        "Outfit.Spider.HeadDefault.Title": "Il look classico di Spider.",
+        "Outfit.Spider.BodyDefault.Description": "Il classico completo di Spider.",
+        "CallingCard.Spider.Magic.Description": "Il biglietto da visita più elegante per Spider. Si sblocca al livello 17.",
+        "CallingCard.Spider.Default.Description": "Il biglietto da visita tipico di Spider.",
+        "Gear.Smokebomb.Description": "Un classico tra i ladri, le bombe fumogene sono state utilizzate fin dall’antichità per mettere in atto una fuga al momento giusto. Il fumo è efficace per nascondersi sia dagli esseri umani che dai fantasmi, oltre che da molti dispositivi di sicurezza.",
+        "Gear.InsultFairy.Description": "Un'affascinante fata chiassosa e fastidiosa trasformata in uno strumento magico. Uomini adulti sono stati ridotti in lacrime o fatti infuriare dalla sua lingua tagliente. Sbloccata nel Contratto 6.",
+        "Thief.Spider.Description": "Una ladra giocabile che usa un rampino per superare i suoi avversari. Il rampino ha una gittata limitata e, dopo averla azionato, va ricaricato a mano.",
+        "Gear.Zipwire.Description": "Una pistola a molla con gancio che spara in avanti, si aggancia a una superficie e poi riavvolge rapidamente il cavo, trascinando con sé sia la pistola che chi la impugna.",
+        "Difficulty.Medium.Description": "Consente di affrontare le missioni a un livello di difficoltà medio. Offre un bonus ai punti esperienza (XP) e ai guadagni in denaro. Si sblocca nel Contratto 4.",
+        "Difficulty.Easy.Description": "Consente di affrontare le missioni al livello di difficoltà più facile.",
+        "Availability.Available": "Disponibile",
+        "Outfit.Chameleon.BowlerA.Title": "Cappello a bombetta",
+        "Outfit.Spider.BowlerA.Title": "Cappello a bombetta",
+        "CallingCard.Chameleon.Default.Title": "Biglietto da visita",
+        "CallingCard.Spider.Default.Title": "Biglietto da visita",
+        "Outfit.Chameleon.CapA.Title": "Cappello",
+        "Outfit.Spider.HeadDefault.Description": "Cappello"
     },
     "ST_Characters": {
-        "Name.Default": "NPC"
+        "Name.Default": "NPC",
+        "Name.Guard.CityWatchman": "Guardia cittadina",
+        "Name.Civilian.Default": "Civile"
     },
     "ST_Contract8_SocialCalendar": {
-        "Contract8.Clue01_Facts": "Mary Elway keeps a social calendar amongst her things"
+        "Contract8.Clue01_Facts": "Mary Elway keeps a social calendar amongst her things",
+        "Contract8.QuestItem_Clue_Facts": "\"Padre Gregorio\" è Grigori Rasputin",
+        "Contract8.Title": "Un lupo travestito da agnello"
     },
     "ST_Credits": {
         "Role.AccountDirector": "Account Director",
@@ -1375,14 +1524,58 @@
         "Role.TranslatorPortuguese": "Translator - Portuguese",
         "Role.TranslatorSpanish": "Translator - Spanish",
         "Company.Verite": "Verite Studios",
-        "Section.Credits": "Crediti"
+        "Section.Credits": "Crediti",
+        "Section.3DAnimation": "Animazione 3D",
+        "Role.3DAnimator": "Animatore 3D",
+        "Role.3DArtist": "Artisti 3D",
+        "Role.3DLeadAnimator": "Animatore capo 3D",
+        "Role.Chameleon": "Il Camaleonte / La Fata degli Insulti / Il Bottino Parlante",
+        "Role.Spider": "Il Ragno",
+        "Section.AdditionalArt": "Altre illustrazioni",
+        "Section.AdditionalAudio": "Audio aggiuntivo",
+        "Section.AdditionalContributors": "Altri collaboratori",
+        "Section.AdditionalDesign": "Design aggiuntivo",
+        "Section.AdditionalDirection": "Direzione aggiuntiva",
+        "Section.AdditionalEngineering": "Ingegneria aggiuntiva",
+        "Section.AdditionalExecutiveOperations": "Operazioni esecutive aggiuntive ",
+        "Section.AdditionalHR": "Supporto HR aggiuntivo",
+        "Section.AdditionalProduction": "Produzione aggiuntiva",
+        "Section.AdditionalQA": "Controlli di qualità aggiuntivi",
+        "Role.AdminCoordinator": "Coordinatore amministrativo",
+        "Section.AonicCommunications": "Aonic Communications",
+        "Section.AonicFinance": "Aonic Finance",
+        "Section.AonicFounders": "Aonic Founding Partners",
+        "Section.AonicLegal": "Aonic Legal",
+        "Section.AonicProduction": "Aonic Production",
+        "Section.AonicQandR": "Aonic Quality and Release",
+        "Section.Art": "Illustrazioni",
+        "Role.ArtDirector": "Direttore artistico",
+        "Section.Audio": "Audio",
+        "Role.BusinessManager": "Responsabile commerciale",
+        "Role.COOFounder": "CCO e cofondatore",
+        "Role.CEOFounder": "CEO e cofondatore",
+        "Role.CTOAbbrev": "CTO",
+        "Section.Cast": "Cast",
+        "Role.CEO": "Amministratore delegato",
+        "Role.CFO": "Direttore finanziario",
+        "Role.CMO": "Direttore del marketing",
+        "Role.ChiefPeopleOfficer": "Direttore delle Risorse Umane e Direttore operativo ad interim",
+        "Role.CTO": "Direttore tecnico"
     },
     "ST_HUD": {
-        "Respawn.TimeLeft": "{time}"
+        "Respawn.TimeLeft": "{time}",
+        "RespawnTimer": "Tempo prima della Rigenerazione: {Time}",
+        "Respawn.TimeUntilText": "Tempo prima della Rigenerazione:",
+        "RespawnCount": "Rigenerazioni rimanenti: {Count}",
+        "CashInHand": "Contanti-in-mano",
+        "Stash.inHand": "Contanti-in-mano:"
     },
     "ST_InGameUI": {
         "Mission.Mode.Solo": "Solo (online)",
-        "Escape.Settings": "Impostazioni"
+        "Escape.Settings": "Impostazioni",
+        "IntroCutscene.Line7": "...sta per iniziare!",
+        "IntroCutscene.Line6": "E ora, il tuo viaggio tra le ombre...",
+        "Escape.BlockPlayer": "Blocca Giocatore"
     },
     "ST_Interactable_Switches": {
         "AlreadyTransitioningErrorPrompt": "BUSY",
@@ -1394,17 +1587,38 @@
         "PromptShoveTaunt": "Shove Taunt",
         "PromptTakeCallingCard": "Take {Player}'s Calling Card",
         "PromptTalk": "Talk",
-        "PromptTap": "Tap on Shoulder"
+        "PromptTap": "Tap on Shoulder",
+        "ErrorDuplicateKey": "Hai già la chiave",
+        "ErrorAmmoFull": "Munizioni piene",
+        "MessageTutorialAmmoRefillUsed": "Munizioni ricaricate",
+        "PromptBackstab": "Colpo alle spalle",
+        "PromptBindBody": "Collega",
+        "PromptTakeLootBagContents": "Apri Borsa del Bottino ({Num} oggetti)",
+        "ErrorCannotOpenFromSide": "Non si può aprire da qui",
+        "ErrorOtherSwitchInUse": "Non è possibile utilizzarlo quando è attivo un altro interruttore",
+        "ErrorMagneticallyLocked": "Non utilizzabile quando è alimentato",
+        "PromptCarryBody": "Trasporta",
+        "PromptMissionSelect": "Scegli una missione"
     },
     "ST_MapTool": {
         "CluePage.TimerInfo": "Completing the mission objective summons a magic door and starts the exit countdown.",
-        "Legend.Contract": "Contract"
+        "Legend.Contract": "Contract",
+        "Legend.AmmoCache": "Deposito di munizioni",
+        "Guildhall.Archives": "Archivi",
+        "AutoMap": "Auto",
+        "Guildhall.BanquetHall": "Sala\nper banchetti",
+        "Guildhall.Bullpen": "Ufficio comune",
+        "Guildhall.CeremonialChamber": "Sala \ncerimoniale",
+        "Guildhall.MainOffice": "Ufficio\nCapo\ndella Polizia"
     },
     "ST_PostMatch": {
-        "PostMatch.Haul.CountMarker": "x"
+        "PostMatch.Haul.CountMarker": "x",
+        "PostMatch.Haul.Ally": "Alleato",
+        "PostMatch.Status.Caught": "Catturato"
     },
     "ST_PragmaMessages": {
-        "Matchmaking.Canceled.PlayerLeftParty": "PlayerLeftParty"
+        "Matchmaking.Canceled.PlayerLeftParty": "PlayerLeftParty",
+        "Pragma.Error.Generic": "Si è verificato un errore"
     },
     "ST_Screens": {
         "Screen.MissionLobby.Ellipse1": ".",
@@ -1421,7 +1635,20 @@
         "Screen.MainMenu.Quit": "Esci",
         "Screen.MainMenu.Quit.Confirmation": "Uscire e chiudere il gioco?",
         "Screen.PauseMenu.QuitToMainMenu": "Torna al menu principale",
-        "Screen.PauseMenu.QuitToThievesDen": "Torna al Covo dei Ladri"
+        "Screen.PauseMenu.QuitToThievesDen": "Torna al Covo dei Ladri",
+        "Screen.Stat.CoopRespawnPenalty": "Penalità di Rigenerazione",
+        "Screen.MissionLobby.VaultQuestDescription": "Un raro busto, noto come “Effigie di Warburg”, è custodito presso la Caserma. Stasera ci sarà un intervallo di 45 minuti in cui la sorveglianza sarà ridotta. Ruba il busto, metti in imbarazzo la polizia e guadagna una bella somma.",
+        "Screen.Ledger.Contract.Status.InProgress": "Attivo",
+        "Screen.MissionLobby.Matchmaking.Status.Started": "Attivo",
+        "Screen.Stat.AlarmsDisabled": "Allarmi disattivati",
+        "Screen.PostMatch.AllyCashInHand": "Contanti in Mano all'Alleato",
+        "Screen.Ledger.Contract.Status.Available": "Disponibile",
+        "Screen.Back": "Indietro",
+        "Screen.Ledger.BlackMarket": "Mercato nero",
+        "Screen.PostMatch.Unlocks": "Sblocchi del mercato nero",
+        "Screen.MissionLobby.Matchmaking.Status.Canceled": "Annullato",
+        "Screen.PostMatch.CashInHand": "Contanti in mano",
+        "Screen.PostMatch.YouWereCaught": "Catturato!"
     },
     "ST_Settings": {
         "Settings.FPSLimit.30": "30",
@@ -1430,7 +1657,10 @@
         "Settings.Camera.MotionBlur": "Motion Blur",
         "Settings.Gameplay.ReducedCameraBounce": "Reduced Camera Bounce",
         "Settings.FPSLimit.Unlimited": "Unlimited",
-        "Settings.Display.Resolution.Option": "{Width} x {Height}"
+        "Settings.Display.Resolution.Option": "{Width} x {Height}",
+        "Settings.Controls.Controller.Lean": "+ Direzionale = Sporgiti",
+        "Settings.GraphicsQuality.AntiAliasing": "Anti-aliasing",
+        "Settings.Audio.Header": "Audio"
     },
     "ST_Settings_Input": {
         "InputSetting.Movement.Crouch": "Crouch",
@@ -1460,7 +1690,13 @@
     },
     "ST_ThievesDen": {
         "CityMap.Difficulty": "{Difficulty}",
-        "CityMap.GameMode": "{GameMode}"
+        "CityMap.GameMode": "{GameMode}",
+        "Contract.Completed": "Un Contratto è stato completato!",
+        "GameEnd.WhatNext": "Continua pure a giocare quanto vuoi! Prova il personaggio Chameleon, continua a sbloccare oggetti cosmetici e divertiti con il gioco!",
+        "Wardrobe.OutfitBody": "Corpo",
+        "Ledger.BlackMarket.ConfirmPurchase": "Acquistare {item} per £{price}?",
+        "Wardrobe.OutfitCallingCard": "Biglietto da visita",
+        "CityMap.CannotMatchmake.NotInParty": "Non è possibile partecipare al Matchmaking senza un gruppo.  Crea o unisciti a un gruppo prima di partecipare al Matchmaking!"
     },
     "ST_Tools": {
         "RetributionCloak_Tool_Description": "A cloak that provides a temporary shield against damage for a short duration, but the effect will be broken if the user takes a violent action while cloaked",
@@ -1507,11 +1743,21 @@
         "Tools_Deploy_Multiple": "[HOLD] Throw Multiple",
         "Tools_Deploy_Hold_Focus": "[Hold] Focus Fire",
         "Tools_Deploy_Throw_Active": "[Hold] Throw Active",
-        "Tools_Deploy_Throw_Trap": "[Hold] Throw Trap"
+        "Tools_Deploy_Throw_Trap": "[Hold] Throw Trap",
+        "CuckooClock_Tool_Description": "Un'affascinante fata chiassosa e fastidiosa trasformata in uno strumento magico. Uomini adulti sono stati ridotti in lacrime o fatti infuriare dalla sua lingua tagliente. ",
+        "Glamour_Tool_Description": "Una maschera che riproduce l'aspetto e la velocità di movimento dei nemici. Se non si agisce di nascosto o se si viene notati dalle guardie, la durata del travestimento si riduce. I dispositivi di sicurezza non si lasciano ingannare da questa magia.",
+        "VistaraDiamond_Tool_Description": "Una gemma misteriosa che permette a chi la possiede di vedere trappole e tesori.",
+        "Zipwire_Tool_Description": "Una pistola a molla con gancio che spara in avanti, si aggancia a una superficie e poi riavvolge rapidamente il cavo, trascinando con sé sia la pistola che chi la impugna.",
+        "SmokeBomb_Tool_Description": "Dispositivo lanciabile contenente sostanze chimiche volatili che genera un fumo denso e oleoso in grado di ostacolare la visibilità finché la nube di fumo è attiva. Può inoltre provocare soffocamento.",
+        "Loadout.Slot.Outfit.Body": "Corpo",
+        "Loadout.Slot.Outfit.CallingCard": "Biglietto da visita",
+        "Tools_Disguise_Cancel": "Annulla"
     },
     "ST_Tutorial_Infographics": {
         "Tut_Info_Difficulty_Settings_02": "To change your difficulty, go to the Map Table and select a map. Once you have purchased an additional difficulty level from the Black Market, you will see the option to change your difficulty before starting Mission Preparation.",
-        "Tut_Info_Difficulty_Settings_01": "You unlocked Thief difficulty!\r\n\r\nHigher difficulties increase XP and cash awards, and increase the challenge of each mission. Thief difficulty DOUBLES XP and cash compared with Novice. It also adds additional variation to content in the maps. Thief difficulty represents the intended experience for Thick As Thieves."
+        "Tut_Info_Difficulty_Settings_01": "You unlocked Thief difficulty!\r\n\r\nHigher difficulties increase XP and cash awards, and increase the challenge of each mission. Thief difficulty DOUBLES XP and cash compared with Novice. It also adds additional variation to content in the maps. Thief difficulty represents the intended experience for Thick As Thieves.",
+        "Tut_Info_Smoke_Bomb_LOS": "Una bomba fumogena impedisce alle guardie, agli Occhi Magici e alle torrette di vederti se il fumo si trova tra te e loro.",
+        "Tut_Info_VistaraDiamond": "Non appena hai preso il Diamante Vistara, l'hai equipaggiato. Finché è equipaggiato, ti permette di vedere cose che normalmente non vedresti, come la posizione delle guardie nelle vicinanze, il bottino e alcuni dispositivi di sicurezza. "
     },
     "StriderEditor": {
         "AccelerationWarp": "Acceleration Warp",
@@ -1546,7 +1792,7 @@
         "TATParticleSimulationNiagaraDataInterface_GetParticleCount": "Returns the number of simulated particles."
     },
     "TATStateTreeSmartObjects": {
-        "MissingEventData": "EventTag and Payload properties are empty, expecting valid tag."
+        "MissingEventData": "Le proprietà EventTag e Payload sono vuote; è necessario un tag valido."
     },
     "TextureRenderTarget": {
         "UnsupportedFormatForConversionToTexture": "Unsupported format ({0}) for converting {1} to {2}. Supported formats are: {3}"
@@ -1564,7 +1810,37 @@
         "InvalidSizeForConversionToTexture": "Invalid size ({0},{1},{2}) for converting {3} to {4}"
     },
     "Toasts": {
-        "LootPickpocketed": "{PlayerName} has collected {LootName}! "
+        "LootPickpocketed": "{PlayerName} has collected {LootName}! ",
+        "StashValueChanged": "Bottino del valore di {StashDelta} aggiunto al deposito (ora {StashTotal})",
+        "PlayerKnockedOutByPlayer": "{PlayerName} è stato messo fuori combattimento da {InstigatorName}",
+        "PlayerKnockedOutByGuard": "{PlayerName} è stato messo fuori combattimento dalle guardie",
+        "MajorLootTaken": "{PlayerName} ha preso {MajorLootName}!",
+        "DepositedMajorLoot_Remote": "{PlayerName} ha depositato {MajorLootName}!",
+        "PlayerRespawned": "{PlayerName} si è rigenerato",
+        "PlayerRespawnTotemActivated": "{PlayerName} ha attivato un totem di rigenerazione",
+        "Guildhall.Procurement.Archives.Primary02": "\"FUNZIONA ANCORA DOPO CENTO ANNI\", afferma l’ispettore capo Windsmire. L’applique, dopo aver ricevuto un bello strattone, apre una cassa lì vicino. Tutti si sono fatti una bella risata.",
+        "Guildhall.Procurement.Tower.VariationA001": "A tutto il personale: \nL'interruttore di accensione/spegnimento del dispositivo di sicurezza è stato spostato nel corridoio di fronte al caveau. Si prega di adeguare di conseguenza i propri giri di controllo. \n- Ufficio dell'amministratore",
+        "Guildhall.Procurement.Archives.Vault10": "Gli agenti che hanno effettuato l'arresto hanno intuito il potenziale di quella statua. L'abbiamo consegnata all'archivista, e buonanotte.\n",
+        "Guildhall.Procurement.Archives.Vault5": "Gli agenti che hanno effettuato l'arresto hanno intuito il potenziale di quella statua. L'abbiamo consegnata all'archivista, e buonanotte.\n",
+        "Guildhall.Procurement.Chambers.Primary010": "Attenzione! L'effigie di Warburg rimarrà custodita nel caveau dei Chambers fino a nuovo avviso. - Ufficio del Commissario",
+        "Guildhall.Procurement.Chambers.Primary014": "Barnaby - \nLester ha di nuovo la chiave. Sì, proprio quello che la settimana scorsa ha vinto il tuo buono per la cena a poker. \nWorthington",
+        "Guildhall.Procurement.Chambers.Primary7": "Brimsby - \nHo fatto sistemare quella strana statua nella Camera del Tesoro per la notte. Per favore, avvisa le pattuglie. \n- Shelly",
+        "Guildhall.Procurement.Tower.Vault004": "Brimsby - \nPerché prendersi la briga di spostare l'effigie nel Caveau della torre? I ladri non entrano solo dal piano terra, lo sai bene \n- G",
+        "Guildhall.Procurement.Chambers.Primary012": "Brimsby - \nSì, stasera Lester ha la chiave del caveau. Non so proprio come faccia a mangiare dopo aver sentito quell’Effige borbottare tra sé e sé. \n- Shelly",
+        "Guildhall.Procurement.Archives.Primary15": "Brimsby - \nSì, in caso di emergenza è possibile disattivare i sistemi di sicurezza del caveau utilizzando l'interruttore situato sulla parete posteriore dell'ufficio. Forse dovremmo inviare una circolare a tutto il dipartimento. \n-Shelly",
+        "Guildhall.Procurement.Tower.VariationB004": "Brisby - \nL'idea di spostare la cassaforte era quella di nasconderla. Graffia il pavimento, hai lasciato un indizio piuttosto evidente sulla sua posizione, no? Chiama i falegnami, idiota! \n- M",
+        "Guildhall.Procurement.Tower.VariationB005": "C - \nQuindi, anche se abbiamo rovinato i pavimenti trascinandola in giro, ho sentito dire che l'unica cosa che c'è in quella nuova cassaforte è una chiave del caveau. È una buona idea?\n- Smythe",
+        "Guildhall.Set.Location004": "Cappy - \nDopo aver pulito, mi sono imbattuto in quell’{Item}. Non avevo intenzione di prenderlo. L’ho messo nell’{Location}. \n- Grayson",
+        "Guildhall.Procurement.Chambers.Primary011": "Cappy - \nHo preso la chiave del caveau di nuovo stasera. Ci vediamo a cena. \n- Lester",
+        "Guildhall.Set.Location016": "Cappy - \nStavo pulendo il pavimento e ho trovato l’{Item}. L’ho spostato nell’{Location}. L’ho anche lucidato per bene. \n- Grayson",
+        "Guildhall.Procurement.Archives.Primary06": "Cappy - \nScommetto che quella statua è una copia in gesso. Guardala pure quanto vuoi, io sarò in salotto. \n- Albert ",
+        "Guildhall.Set.Location006": "Signor Cappy, \nqualcuno ha lasciato l'{Item} nel lavatoio. Mi è sembrata una cosa interessante, quindi l’ho spostato nell'{Location}. Solo per sicurezza. Spero di aver fatto la cosa giusta. \n- Agente Higgins ",
+        "Guildhall.Set.Location010": "Capitano - \nHo deciso di mia iniziativa di spostare l'{Item} nell'{Location}, poiché mi sembra un luogo più sicuro. Confido che sarai d'accordo. \n- Margery",
+        "Guildhall.Set.Location027": "Capitano Seawell - \nEcco i tuoi ordini: \nMetti al sicuro l’{Item} vicino all’{Location}. \nInoltre, fai spazzare l’atrio: bisogna essere orgogliosi dell’ambiente che ci circonda. \n- Capo della Polizia L. A. ",
+        "Guildhall.Set.Location026": "Capitano, signore - \nMi scusi, ma l’{Item} si trova attualmente nell’{Location}, perché il personale addetto alle pulizie continuava a trovarlo. Detto questo, è stato lucidato davvero bene, quindi non mi lamento. \n- MacKara",
+        "Guildhall.Set.Location020": "Capo della Polizia - \nCome da ordini, abbiamo sistemato l’{Item} nel luogo da lei indicato, l’{Location}. Restiamo in attesa di ulteriori istruzioni da parte sua. \n- Higgins",
+        "Guildhall.Set.Location021": "Commissario Avery, \nl’{Item} si trova attualmente nell’{Location}, se desiderasse visionarlo. Inoltre, martedì potrà visitare la caserma e le celle del carcere. Le va bene così? \n- Seawell",
+        "Guildhall.Procurement.Chambers.Primary": "Clark - \nÈ stato trasferito alle Camere per motivi di sicurezza. Niente di così magico dovrebbe essere tenuto in superficie. \n-Robinson"
     },
     "TrapBase": {
         "DisarmPrompt": "Disarm",
@@ -1756,7 +2032,9 @@
         "Preview": "Preview",
         "SearchHint": "Search...",
         "FilteredAssets_Header_SourcePath": "Source Path",
-        "FilteredAssets_Header_Type": "Type"
+        "FilteredAssets_Header_Type": "Type",
+        "FilteredAssets_Header_Language": "Lingua",
+        "FilteredAssets_Header_ShortId": "ID"
     },
     "ST_Interactable_Props": {
         "PromptPlay": "Gioca"
@@ -1766,18 +2044,145 @@
     },
     "ST_Contract11_PaintingFiles": {
         "Contract11.QuestObjectLocation": "Archivi Caserma dei Conestabili",
-        "Contract11.Journal": "La Gilda ti ha incaricato di raccogliere ulteriori informazioni sulle Pietre di Guardia dagli archivi della Caserma dei Conestabili. Si spera che ciò possa far luce sullo strano dipinto che hai rubato dagli Elway."
+        "Contract11.Journal": "La Gilda ti ha incaricato di raccogliere ulteriori informazioni sulle Pietre di Guardia dagli archivi della Caserma dei Conestabili. Si spera che ciò possa far luce sullo strano dipinto che hai rubato dagli Elway.",
+        "Contract11.QuestItem_Name_Clue": " File Oggetto d'Interesse n. ARC-00001\n\"Pietre di Guardia\"\nDonate dal Principe delle Fate Oberon nell'ambito del cosiddetto \"Patto di Oberon\". \nI dettagli del patto sono sconosciuti. \nIl numero attuale e l'ubicazione delle Pietre di Guardia sono sconosciuti.",
+        "Contract11.QuestItem_Name_Clue_Facts": "\"Pietre di Guardia\"\nDonate dal Principe delle Fate Oberon nell'ambito del cosiddetto \"Patto di Oberon\". ",
+        "Contract12_QuestItem_Clue": "Documenti antichi\nQuesti documenti sembrano essere scritti in un'antica scrittura magica, o forse in un codice. O forse entrambe le cose. \n(La Gilda dei Ladri potrebbe avere le risorse necessarie per decifrarli.)",
+        "Contract12.Title": "Archivio Archrival",
+        "Contract11.Clue02": "Campbell - \nIl capo della polizia Avery ha disposto di limitare l'accesso agli archivi. Ha un elenco di fascicoli riservati che desidera vengano trasferiti nella zona più sicura dell'archivio, vicino al caveau. Provvedete a farlo.\n- Capitano Smith",
+        "Contract11.Clue01": "Campbell - \nSo che è il capo della polizia, ma correre sempre al secondo piano negli archivi per lui è estenuante. E ogni richiesta è più oscura della precedente! Cos’è una Pietra di Guardia? Che diavolo ne so! Non sono un bibliotecario, sono un agente di polizia!\n- Reynolds"
     },
     "ST_Contract13_OldMapPt1": {
         "Contract13.Journal": "Un personaggio misterioso ti ha contattato tramite l’Elettrogramma per proporti un contratto “in nero”: recuperare un’antica mappa di Kilcairn che possa aiutarti a individuare la posizione originaria della sesta Pietra di Guardia. Il misterioso contatto ti ha detto che la mappa si trova negli archivi della Caserma dei Conestabili, quindi inizierai la tua ricerca proprio lì.",
         "Contract13.QuestObjectLocation": "Archivi Caserma dei Conestabili",
         "Contract13.Intro": "Che aggeggio particolare.\nÈ però maledettamente difficile scriverci sopra.\nRappresento una parte interessata.\nCosa vogliamo?\nAiutarvi a trovare l’ultima Pietra di Guardia.\nPerché?\nDiciamo solo che ci piace l’idea che ci dobbiate un favore.\nVi servirà una vecchia mappa della città.\nControllate presso la Caserma dei Conestabili.\nSaluti!",
-        "Contract13.Dscription": "Recupera un'antica mappa di Kilcairn da qualche parte nella sede della Caserma dei Conestabili."
+        "Contract13.Dscription": "Recupera un'antica mappa di Kilcairn da qualche parte nella sede della Caserma dei Conestabili.",
+        "Contract13.Title": "Una nuova pedina sulla scacchiera",
+        "Contract13.QuestItem_Clue": "Mappa antica\nQuesto frammento di pergamena mostra chiaramente le posizioni originali delle sei Pietre di Guardia. Purtroppo, la mappa è talmente incompleta che è impossibile collegare i luoghi indicati con qualsiasi punto che potrebbe comparire su una mappa moderna. Forse esistono altri frammenti che potrebbero rendere più facile individuare tali luoghi?",
+        "Contract13.Clue02": "Capitano Lindell - \nIn risposta alla sua richiesta, sì, gli archivi contengono numerose mappe antiche della città, alcune delle quali risalgono a secoli fa. Tutti i documenti di questo tipo sono conservati lungo la parete.\n- Capitano Smith"
     },
     "ST_Contract15_ArrestReport": {
-        "Contract15.Journal": "La Gilda ci ha contattati di nuovo. Sembra che una delle spie del Kaiser sia stata arrestata e sia ora detenuta presso la Caserma dei Conestabili. Dato che il Kaiser sta cercando la Pietra di Guardia, scoprire ciò che questa spia sa è della massima importanza."
+        "Contract15.Journal": "La Gilda ci ha contattati di nuovo. Sembra che una delle spie del Kaiser sia stata arrestata e sia ora detenuta presso la Caserma dei Conestabili. Dato che il Kaiser sta cercando la Pietra di Guardia, scoprire ciò che questa spia sa è della massima importanza.",
+        "Contract15.Clue02_Facts": "La trascrizione dell'interrogatorio è stata redatta all'esterno della camera blindata nella torre.",
+        "Contract15.QuestItem_Name": "Trascrizione dell'arresto",
+        "Contract15.Clue01": "Capitano Lindell - \nCondurrò l'interrogatorio della spia nella torre. L'accesso deve essere limitato.\n- Capo della polizia L. Avery"
     },
     "ST_Contract16_ValuableTrinket": {
-        "Contract16.QuestObjectLocation": "Caserma dei Conestabili"
+        "Contract16.QuestObjectLocation": "Caserma dei Conestabili",
+        "Contract16.Clue02": "Capitano Lindell - \nUltimamente, sempre più spesso, quando vado a consegnare un rapporto al capo della polizia, mi dicono che è nel suo ufficio, ma quando arrivo non c’è anima viva. Mi sta evitando?\n- Capitano Smith",
+        "Contract16.QuestItem_Clue01": "Diario del Capo Conestabile\nQuesto diario contiene un resoconto completo del periodo trascorso dall'attuale Capo Conestabile a Kilcairn. Sembra che egli non sia un semplice agente di polizia, ma che sia in realtà un agente della Corona britannica. Sta cercando di localizzare le Pietre di Guardia. Il tuo nome, e persino alcune foto molto sfocate, compaiono frequentemente tra le annotazioni del diario. È a conoscenza del Patto, delle attività del Kaiser a Kilcairn, dello zar e di altro ancora."
+    },
+    "ST_Social": {
+        "Party.PartyMembers": "Membri del Gruppo ({NumMebers}/{MaxMembers})",
+        "Party.InviteAccept": "Accetta",
+        "AddFriend.Button": "Aggiungi amico",
+        "AddFriends.Title": "Aggiungi amici",
+        "FriendsList.SendFriendRequest": "Aggiungi come amico",
+        "Ping.Alert": "Avviso",
+        "Ping.Ammo": "Munizioni qui",
+        "Ping.Attack": "Attacca",
+        "Presence.Away": "Assente",
+        "FriendList.Block": "Blocca",
+        "Ping.Cannot": "Non è possibile",
+        "Party.InvitePending": "Controlla gli inviti"
+    },
+    "ST_Contract_Contract2_VistaraFiles": {
+        "Contract2.Clue_ActualFiles": "File Oggetto d'Interesse n. ARC-17234\n\"Diamante Vistara\"\nRecuperato a Calcutta da agenti di Sua Maestà nel 1873. Magico. Effetti sconosciuti.\nScomparso nel 1875. \nAvvistamenti: 1899 - Amsterdam, 1907 - New York, 1916 - Londra\nAggiornamento: Il diamante è stato recentemente portato a Kilkairn dal signor Hugh Montgomery attraverso canali non ufficiali. ",
+        "Contract2.Clue_04": "Capitano Lindell,\n\nMi preoccupa il tempo che il sergente Campbell sta impiegando per esaminare i fascicoli del Vistara. Il capo della polizia sta mettendo tutti sotto pressione affinché glieli consegnino al più presto!\n\nSergente MacDonald",
+        "Contract2.Clue_05": "Capitano Smith,\n\nMi è giunta voce che i suoi agenti al secondo piano non stiano agendo con la dovuta rapidità nel preparare il briefing sul Vistara per il capo della polizia. Devo forse ricordarle che al momento questa è una priorità assoluta?\n\nCapitano Lindell",
+        "Contract2.Clue_03": "Capitano Smith,\n\nIl sergente Campbell sta esaminando i fascicoli del Vistara. Se ne ha bisogno, probabilmente li troverà sulla sua scrivania nell'ufficio comune.\n\nSergente MacDonald",
+        "Contract2.QuestObjectLocation": "Ufficio Comune della Caserma dei Conestabili",
+        "Contract2.Clue_03_Fact": "I fascicoli sono su una scrivania nell'ufficio comune",
+        "Contract2.Clue_06_Facts": "L'agente, il sergente Campbell, ha una scrivania al centro dell'ufficio comune",
+        "Contract2.Clue_06": "A tutti gli interessati:\nLa riorganizzazione dell'ufficio comune è stata completata. Abbiamo ricevuto una segnalazione dal sergente Campbell secondo cui le scrivanie situate al centro dell'ufficio comune sono soggette a un forte rumore. Vi preghiamo di prestare attenzione ai vostri colleghi che stanno svolgendo un lavoro importante.",
+        "Contract2.Clue_02": "Capitano Smith,\n\nTutti i fascicoli relativi al Diamante Vistara sono stati trasferiti alla Caserma, al secondo piano.\n\nSergente MacDonald",
+        "Contract2.Clue_01": "Il capo della polizia Avery vuole immediatamente tutto il materiale che abbiamo sul Diamante Vistara!"
+    },
+    "ST_EscapeNames": {
+        "GH.FirstFloor": "Uscita al 1° piano",
+        "GH.secondfloor": "Uscita al 2° piano",
+        "OM.Basement": "Seminterrato",
+        "GH.Basement": "Uscita del seminterrato"
+    },
+    "ST_Tutorial": {
+        "Tut_Use_Jump": "<img id=\"Jump\"/> per saltare sugli ostacoli",
+        "Tut_Contract1_Title": "Un lavoro semplice",
+        "Tut_Object_ApartmentKey_Desc": "La chiave di un appartamento",
+        "Tut_Smoke_Bomb_Blocks_LOS": "Una bomba fumogena impedisce alle guardie, agli Occhi Magici e a chiunque altro di vederti.",
+        "Tut_Object_ApartmentKey": "Chiave dell'Appartamento",
+        "Tut_Clue_Get_Key_to_Leave": "Aspirante collega: \nTi affidiamo l'incarico di recuperare il Diamante Vistara. Ti abbiamo fornito una chiave per aprire questo nascondiglio. Ci terremo in contatto.\n- La Gilda"
+    },
+    "ST_Contract4_HiddenSecrets": {
+        "Contract5.LootObject_Note_Fact": "Un uovo Fabergé di inestimabile valore è stato rubato da un certo Padre Gregory. ",
+        "Contract4.Clue01": "Angus - \nÈ già la terza volta questa settimana che vedo un ufficiale di alto rango nel seminterrato, gli faccio il saluto militare mentre mi passa accanto, e poi mi volto e lui è sparito. Sempre in quella stessa nicchia vicino al caveau. Come se il seminterrato non fosse già abbastanza inquietante così com’è!\nCampbell",
+        "Contract5.Clue01": "Bert - \nPrenderemo l'aperitivo nel cortile insieme ai nostri ospiti. Ti prego di provvedere a stuzzichini che non attirino i corvi.\n-Mary",
+        "Contract4.Clue02": "Capitano Lindell - \nIl personale addetto alle pulizie continua a lamentarsi di sentire \"rumori soprannaturali\" vicino al caveau nel seminterrato. Si è arrivati al punto che si rifiutano di pulire laggiù. \n- Ross."
+    },
+    "ST_Lockpicking": {
+        "Locked.Vault.IncorrectKey": "Una chiave del caveau può aprire solo il caveau per cui è stata realizzata. Questo non è il caveau giusto per la chiave che hai. "
+    },
+    "ST_SavedLootFilters": {
+        "UI.Filter.LootInventory.None": "Tutto"
+    },
+    "ST_Tutorial_ThievesDen": {
+        "Tut_TD_Move_to_WantedPosters": "Va bene. Ora vieni qui. Hai visto qualcuno che conosci?",
+        "Tut_TD_Move_to_Mirror": "Dai, vieni a dare un'occhiata a questo armadio."
+    },
+    "EndgameObjectives": {
+        "EndgameObjective.StopThief": "Si è aperta un'uscita. Scappa finché sei in tempo!"
+    },
+    "ST_Contract10_PactOfOberon": {
+        "Conrtact10.Clue02_Facts": "Un’apertura nascosta da qualche parte nella Torre sta destando preoccupazioni in materia di sicurezza.",
+        "Contract10.Title": "Licenza artistica"
+    },
+    "ST_Contract14_OldMapPt2": {
+        "Contract14.QuestItem_Clue": "Mappa antica\nQuesto frammento di pergamena è simile a quello che hai trovato nella Caserma. Grazie ad esso, puoi iniziare a farti un’idea della struttura della città antica. Con il terzo frammento promesso dal tuo benefattore anonimo, sei certo di poter individuare la posizione originaria delle Pietre di Guardia."
+    },
+    "St_Clues_TextReplacement": {
+        "Missions.Archives": "Caveau Archival",
+        "Missions.Basement": "Caveau del Seminterrato",
+        "Missions.BookOfMourning": "Libro del Lutto",
+        "Missions.BooksOfTruth": "Libro della Verità",
+        "Missions.Chambers": "Caveau della Camera Cerimoniale"
+    },
+    "ST_Contract7_Retrieval": {
+        "Contract7.Journal": "Almeno uno degli oggetti rubati dall'Usignolo sembra essere stato avvistato alla Magione Elway. Non può certo essere una coincidenza, vero? Dovrai indagare di persona per scoprire la verità."
+    },
+    "ST_LootInfo": {
+        "Loot.Bankenotes": "Banconote",
+        "Loot.Banknote.Large": "Banconote (grande)",
+        "Loot.Bankenote.Med": "Banconote (medio)",
+        "Loot.Bankenotes.Medium": "Banconote (medio)",
+        "Loot.Banknote.Small": "Banconote (piccolo)",
+        "Loot.BankeNote.Small2": "Banconote S2",
+        "Loot.BookMourning": "Libro Del Lutto",
+        "Loot.BookTruth": "Libro Della Verità",
+        "Loot.Breifcase": "Valigetta",
+        "Loot.BronzeCoin": "Moneta di bronzo",
+        "Loot.CatStatue": "Statua di gatto",
+        "Loot.Chalice": "Calice",
+        "Looy.CheeseWheel": "Forma di formaggio"
+    },
+    "ST_MapNames": {
+        "OldManor.Basement": "Seminterrato",
+        "OldManor.BasementVault": "Caveau del Seminterrato"
+    },
+    "ST_ClueFactCatagories": {
+        "BreakingIN": "Irruzione"
+    },
+    "ST_Contract6_NightingaleFile": {
+        "Contract6.Clue02": "Campbell - \nVorrei che il fascicolo sull'Usignolo venisse trasferito negli archivi. Ultimamente sono scomparsi diversi documenti.\n- Capitano Smith",
+        "Contract6.Clue01": "Capitano Lindell - \nHo raccolto tutte le informazioni che abbiamo sull’Usignolo. Temo che non siano molte. Come sempre, i fascicoli ufficiali devono rimanere al secondo piano. Se hai bisogno di un’eccezione, dovrai parlare con il capitano Smith.\n- Sergente Campbell"
+    },
+    "ST_OldManor_BasementVault_Clues": {
+        "OldManor.Vault.Basement.Clue04.Var2": "Capitano - Pensavo che il posto più sicuro dove mettere quella chiave fosse la stanza segreta vicino alla Galleria. Quindi è lì che l'ho messa. Inoltre, oggi è il compleanno di Harker, quindi gli ho concesso una pausa pranzo più lunga del solito. \n- MacHuey",
+        "OldManor.Vault.Basement.Clue01.Var5": "Capitano D - \nSì, credo che Mary volesse che l’{Item} restasse chiuso nel caveau del seminterrato, per ora. Mi ha chiesto di risponderti, dato che è impegnata a organizzare il suo imminente matrimonio con Hugh Montgomery. \n- Signorina Elway (Elspeth)",
+        "OldManor.Vault.Basement.Clue02.Var3": "Capitano - \nSì, signore, ho la chiave. Se ha bisogno di me, mi trova vicino alla sala banchetti. Al secondo piano. Non ci si può fidare degli altri ragazzi quando c'è del cibo in giro. \n- MacHuey",
+        "OldManor.Vault.Gallary.Clue03.Var1": "Capitano Dunfetter - \nHo messo la chiave del caveau nella cassaforte del cortile. Se dovessi averne bisogno, il codice è {Safe2}. Ah, e ho appena presentato una richiesta di trasferimento: questo posto, Elway, è davvero inquietante. \n- MacHuey",
+        "OldManor.Vault.Basement.Clue03.Var4": "Capitano Dunfetter - \nIn risposta alla sua richiesta, le comunico che esiste una stanza segreta nei pressi della Galleria Elway. Per accedervi è necessario azionare l’ascia che si trova sulla vicina statua di leone. È quindi improbabile che venga scoperta per caso da un ladro qualsiasi, qualora decidesse di includerla nelle sue misure di sicurezza. \n- H. Mistral, avvocato",
+        "OldManor.Vault.Gallary.Clue03.Var2": "Capitano, signore  - \nEcco il codice della cassaforte nel cortile: {Safe2}. Una delle sorelle Elway mi ha chiesto di metterci dentro la chiave del caveau. Da parte mia è tutto a posto. \n- MacHuey"
+    },
+    "ST_Contract9_": {
+        "Contract9.Clue02": "Il capo della polizia Avery ha dichiarato che si occuperà personalmente del caso. Tutto il materiale dovrà essere trasferito al suo ufficio."
     }
 }
