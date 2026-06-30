@@ -221,7 +221,55 @@
         "2F0A7E5A483BE2CEF96A199810DFFC43": "Ruba {Quantity} Diamanti!",
         "B9B9736247945C8515989FBEA56D15A5": "Ruba {Quantity} Diamanti!",
         "D4931CD64EA620711976DFB1EA063806": "Ruba {Quantity} Diamanti!",
-        "E4F65E7644D592DBD417068608999BBC": "Ruba {Quantity} Diamanti!"
+        "E4F65E7644D592DBD417068608999BBC": "Ruba {Quantity} Diamanti!",
+        "84C14AA04CB3A502A5566AB2D536C5EC": "Chiave della Sartoria",
+        "0139B5234E20F64259DE37A4C1DC192B": "Attacco Furtivo",
+        "B4A477CB473AAD614A5466B226060DCF": "Attacco Furtivo",
+        "6ED4D0F64C009B544C30918B7489EC86": "Test",
+        "645B6BBC427B2BD42A39089E4637A486": "Il pub Crag & Firth",
+        "7F3B79284AB34B58AAFF589A53DCB31E": "Il pub Crag & Firth",
+        "F57BF9A64B2A9E676E4180B4D4FE8026": "salotto",
+        "7AB8F3894B0853279BD5C589356D44A7": "L'interruttore per la sicurezza del caveau della torre si trova nel corridoio di fronte al caveau",
+        "8A11CC8F49DAA3C86E362289BAE36CDB": "L'interruttore per la sicurezza del caveau si trova nell'ufficio del capo",
+        "0D5F943047941F8685C17587AE7EDBC4": "Lancia",
+        "6D671073481D31ECF077F59DAA7F3D1F": "Lancia",
+        "E352D1D04ED4080E65533E89946D5107": "Lancia",
+        "9BA0C5954BBD37F10C7CDEA107DB32C0": "Numero di Rilevamenti",
+        "9185A30D4FB9A364F26C52A8AEE00535": "Strumenti",
+        "D9CC477F47C7E59D33D3768349037F7A": "Torre",
+        "E289B3EB4922B12CDB9EB6820354CFAC": "Torre",
+        "0025608A464D29BC6258D497069A46C5": "Torre ",
+        "C276794540A8E89439491CA6FFA6DD6E": "Ingresso della Torre",
+        "602BBB0E483EA153F235E9B80D0EA9FB": "Caveau della Torre",
+        "9FE4ACF641A5FBFE0C27DB8555F930FD": "Caveau della Torre",
+        "A339E401479D60891A9AA684F37BB48B": "Caveau della Torre",
+        "A422836E46B44EAA6377C8A7A6CF956E": "Caveau della Torre",
+        "1E4B171B45FA0F00D41CFAAAE17E1598": "Spegni",
+        "4AD02BFF44920116C391A4A8BC77A7BF": "Spegni",
+        "9C699DEA45716E4A5F1AFF8E2D7AEA94": "Spegni",
+        "9FBD7DE24653DDF30483D38C182DD967": "Spegni",
+        "AE77CE8D4340C9C50FB368AA9D3A9675": "Spegni",
+        "B8DD77464BCF9E94A6960B81E0B4CC31": "Spegni",
+        "CED8031E47F5518D78C874B7744369ED": "Spegni",
+        "110FBF604119EE7AC8E49983B7DB187D": "Accendi",
+        "3EDDB8744F44A14A6F7E6D8D98F5ADF0": "Accendi",
+        "862D634E4A169D6B28E551BB830908CE": "Accendi",
+        "8646AE94490426860FE0B5A09CB950C9": "Accendi",
+        "AD69399C4D00DCD17C714DA35EEE773F": "Accendi",
+        "D7BA17B04976E4F187A223B21E278883": "Accendi",
+        "A656F6D54A0938587368A2B76ACCB509": "Spegni per Smagnetizzare la Porta ",
+        "0D66D8BB4F89045BB3176191B0D99E4D": "Accendi per Magnetizzare la Porta",
+        "790CCAAD43809F9763EBA597246400BD": "Nome utente",
+        "F7AA43D94041D9E377411EB32483AB9D": "Nome utente",
+        "043662D947090256A005E8A1D78AC941": "Caveau",
+        "2D8C31754605D5443E74E3A6EA3D7481": "Caveau",
+        "F35350DE47D446C4469532A57C9114C8": "Caveau",
+        "17C527AE4CF0F1D3E991BEB4EC7D02F2": "Chiave del Caveau",
+        "327A984B4539AD0066BD8F834EB59AF1": "Chiave del Caveau",
+        "B5B7C72144089FF9A7190C9DEC87E6C0": "Chiave del Caveau",
+        "F4DCB8E74EB9984F4CA53BB51314F607": "Chiave del Caveau",
+        "0577C2C14AD3A57E4ECB6EA5E95D890E": "Chiave dell'Enoteca",
+        "E4D3697B4A6F1A9473754FBC186BC9BE": "Sì"
     },
     "Scalability": {
         "QualityEpicLabel": "Epico",
@@ -311,7 +359,10 @@
         "CallingCard.Chameleon.Silver.Title": "Biglietto da visita argentato",
         "CallingCard.Spider.Silver.Title": "Biglietto da visita argentato",
         "Gear.Slithersap.Title": "Succo di Slither",
-        "Gear.Smokebomb.Title": "Bomba Fumogena"
+        "Gear.Smokebomb.Title": "Bomba Fumogena",
+        "Outfit.Spider.BodyAltA.Title": "Tarantola",
+        "Outfit.Spider.HeadAltA.Title": "Cappello Tarantola",
+        "Gear.Slithersap.Description": "Le origini del Succo di Slither sono oggetto di accese controversie. Alcuni sostengono che si tratti di un lubrificante per macchinari, altri di una guarnizione per dolci. Qualunque sia la verità, è estremamente scivoloso e interagisce in modo strano con i fantasmi quando entra in contatto con loro. Sbloccabile nel Contratto 9."
     },
     "ST_Characters": {
         "Name.Default": "NPC",
@@ -330,7 +381,8 @@
         "Contract8.Clue02": "Mary -\nRowan si è lamentata con me dicendo che il tuo calendario sociale sembra dettare il ritmo dell'intera tenuta. Le ho detto che se LEI avesse avuto un calendario sociale di qualsiasi tipo ne avremmo tenuto conto, ma lei si è limitata a alzare gli occhi al cielo. Che ragazza!\nLa tua affezionata sorella,\nElspeth",
         "Contract8.Clue02_Facts": "Il calendario sociale di Mary Elway sembra avere un ruolo predominante nella scelta degli eventi sociali che si svolgono alla Magione Elway.",
         "Contract8.Clue01": "Signorina Elway, Mary, se mi è consentito osare...\n\nSe volesse gentilmente condividere con me il suo calendario degli impegni sociali, mi aiuterebbe a migliorare la sicurezza della tenuta.\n\nCordiali saluti,\nCapitano Dunfetter",
-        "Contract8.QuestItem_Name": "Calendario degli eventi sociali"
+        "Contract8.QuestItem_Name": "Calendario degli eventi sociali",
+        "Contract8.Journal": "La Gilda è preoccupata riguardo alla vera identità di padre Gregory. Ti hanno incaricato di tornare alla Magione Elway e di controllare l'agenda degli eventi della serata in cui padre Gregory ha cenato lì. Potrebbe fornire dettagli sulla sua vera identità."
     },
     "ST_Credits": {
         "Company.Otherside": "Otherside Entertainment",
@@ -450,7 +502,15 @@
         "Role.SeniorProgrammer": "Programmatore senior",
         "Button.SkipCredits": "Salta Crediti",
         "Section.SpecialThanks": "Ringraziamenti speciali",
-        "Section.SpecialThanksTo": "Un ringraziamento speciale a"
+        "Section.SpecialThanksTo": "Un ringraziamento speciale a",
+        "Role.TechArt": "Tecnologia, Arte, Illuminazione e Animazione",
+        "Role.TechArtist": "Artisti tecnici",
+        "Role.TechDirector": "Direttore tecnico",
+        "Role.TechnicalProductOwner": "Responsabile tecnico di prodotto",
+        "Role.SoundDesign": "Progettazione tecnica del suono",
+        "Role.TestAssociate": "Addetto ai test",
+        "Role.TestLead": "Capo Test",
+        "Role.TestManager": "Responsabile dei test"
     },
     "ST_HUD": {
         "RespawnTimer": "Tempo prima della Rigenerazione: {Time}",
@@ -547,7 +607,13 @@
         "MessageSecretTaken": "Segreto Scoperto!",
         "PromptSelectCharacter": "Seleziona personaggio",
         "PromptStashStealLoot": "Ruba Bottino",
-        "PromptTakedownKnockedDown": "Calpesta"
+        "PromptTakedownKnockedDown": "Calpesta",
+        "PromptTakeSecret": "Prendi",
+        "PromptElectrotypeTakeClue": "Prendi Messaggio",
+        "PromptTakeItemSingle": "Prendi {Item}",
+        "PromptTakeItemSingleWithDurability": "Prendi {Item} ({Durability})",
+        "PromptTakeItem": "Prendi {Num} {Item}",
+        "PromptTakeDown": "Attacco Furtivo"
     },
     "ST_MapTool": {
         "Legend.AmmoCache": "Deposito di munizioni",
@@ -749,7 +815,11 @@
         "Screen.PostMatch.CashInStash": "Denaro Depositato",
         "Screen.Stat.Stashes": "Depositi Utilizzati",
         "Screen.Label.Stats": "Statistiche",
-        "Screen.Stat.StealthKOs": "Attacchi Furtivi"
+        "Screen.Stat.StealthKOs": "Attacchi Furtivi",
+        "Screen.MissionLobby.Oldmanor.SetQuestDescription": "Le Urne di Claymur sono di proprietà della famiglia Elway da secoli. La Gilda ti ricompenserà generosamente se riuscirai a recuperare l'intera collezione. Hai 45 minuti di tempo per sottrarre le urne e fuggire.",
+        "Screen.MissionLobby.GuildHall.LootTheRoomDescription": "La Caserma dei Conestabili è piena di tesori confiscati. Infiltrati nell'edificio e recupera alcune delle ricchezze che hanno lasciato in giro, poi svanisci prima che qualcuno se ne accorga.",
+        "Screen.MissionLobby.Oldmanor.VaultQuestDescription": "La famiglia Elway possiede un libro magico che custodisce con la massima sicurezza in un caveau. Stasera avrai a disposizione una finestra temporale di 45 minuti in cui la sorveglianza sarà meno rigida. Trova il libro, rubalo e esci da lì vivo.",
+        "Screen.MissionLobby.SetQuestDescription": "Le gemme preziose necessarie per restaurare un manufatto sono nascoste tra i ninnoli che raccolgono polvere nella Caserma. Hai 45 minuti di tempo per sottrarre le gemme proprio sotto il naso della polizia."
     },
     "ST_Settings": {
         "Settings.Controls.Controller.Lean": "+ Direzionale = Sporgiti",
@@ -803,7 +873,8 @@
         "Settings.GraphicsQuality.Shadows": "Ombre",
         "Settings.Gameplay.ShowTutorials": "Visualizza i tutorial",
         "Settings.Controls.KBM.Sprint": "Scatta",
-        "Settings.Gameplay.SprintToggle": "Attiva/disattiva Scatto"
+        "Settings.Gameplay.SprintToggle": "Attiva/disattiva Scatto",
+        "Settings.GraphicsQuality.Textures": "Texture"
     },
     "ST_ThievesDen": {
         "Contract.Completed": "Un Contratto è stato completato!",
@@ -830,7 +901,10 @@
         "Ledger.Interact": "Leggi Registro",
         "Watdrobe.SaveLoadout": "Salva configurazione",
         "Wardrobe.SelectLoadout": "Seleziona uno slot dell'equipaggiamento per equipaggiare o sostituire gli strumenti",
-        "Wardrobe.DeclinePrimarySwap": "Gli Strumenti Distintivi non possono essere sostituiti"
+        "Wardrobe.DeclinePrimarySwap": "Gli Strumenti Distintivi non possono essere sostituiti",
+        "GameEnd.ToBeContinued": "CONTINUA",
+        "GameEnd.Thanks": "Grazie per aver giocato a Thick As Thieves: Enter the Shadows!",
+        "Wardrobe.DeclineVistaraSwap": "Il Diamante Vistara non può essere sostituito"
     },
     "ST_Tools": {
         "CuckooClock_Tool_Description": "Un'affascinante fata chiassosa e fastidiosa trasformata in uno strumento magico. Uomini adulti sono stati ridotti in lacrime o fatti infuriare dalla sua lingua tagliente. ",
@@ -859,7 +933,9 @@
         "Tools_Deploy_Return": "Torna indietro",
         "Loadout.Slot.SecondaryTool": "Strumento secondario",
         "MagicSlime_Tool": "Slithersucco",
-        "SmokeBomb_Tool": "Bomba Fumogena"
+        "SmokeBomb_Tool": "Bomba Fumogena",
+        "MagicSlime_Tool_Description": "Le origini della sostanza viscosa nota come “Succo di Slither” sono oggetto di accese controversie. Alcuni sostengono che sia stata sviluppata come lubrificante per macchinari, altri che sia una guarnizione per dessert. Qualunque sia la verità, è estremamente scivolosa. Il fluido ha inoltre una strana interazione con i fantasmi quando i due entrano in contatto.",
+        "Tools_Deploy_Throw": "Lancia"
     },
     "ST_Tutorial_Infographics": {
         "Tut_Info_Smoke_Bomb_LOS": "Una bomba fumogena impedisce alle guardie, agli Occhi Magici e alle torrette di vederti se il fumo si trova tra te e loro.",
@@ -874,7 +950,8 @@
         "Tut_Info_Player_Speed_Final_Reminder": "Ricorda: la tua velocità di movimento influisce direttamente sul rumore che produci. ",
         "Tut_Info_Player_Speed_3": "Correre a tutta velocità produrrà un rumore <Danger>MOLTO</> forte, che potrebbe attirare l'attenzione su di te. Fai attenzione a come ti muovi nell'ombra.",
         "Tut_Info_Stealth_Orb_Continued": "Se ti trovi in piena luce, la sfera emette un bagliore <Highlight>bianco</>. Se la sfera è illuminata, le guardie possono vederti, anche da lontano. Man mano che ti sposti nell'ombra, la sfera si scurirà e sarà più difficile individuarti.",
-        "Tut_Info_Stashes": "I nascondigli sono un ottimo modo per mettere al sicuro il bottino durante una missione, dato che potrai conservare tutto il denaro che vi hai nascosto anche se la missione dovesse fallire! Ogni nascondiglio può essere utilizzato una sola volta e gli oggetti fondamentali per la missione NON verranno nascosti."
+        "Tut_Info_Stashes": "I nascondigli sono un ottimo modo per mettere al sicuro il bottino durante una missione, dato che potrai conservare tutto il denaro che vi hai nascosto anche se la missione dovesse fallire! Ogni nascondiglio può essere utilizzato una sola volta e gli oggetti fondamentali per la missione NON verranno nascosti.",
+        "Tut_Info_Stealth_Orb_Continued_02": "La Sfera della Furtività ti mostra anche quanto rumore stai facendo. Più sei <Highlight>rumoroso</>, più attirerai l'attenzione. <Highlight>Camminare accovacciato</> è l'unico tipo di movimento che è sempre silenzioso.\n\nRicorda che il <Danger>rumore</> attira le guardie, anche se sei nascosto nell'ombra!"
     },
     "TATStateTreeSmartObjects": {
         "MissingEventData": "Le proprietà EventTag e Payload sono vuote; è necessario un tag valido."
@@ -902,7 +979,7 @@
         "Guildhall.Set.Location004": "Cappy - \nDopo aver pulito, mi sono imbattuto in quell’{Item}. Non avevo intenzione di prenderlo. L’ho messo nell’{Location}. \n- Grayson",
         "Guildhall.Procurement.Chambers.Primary011": "Cappy - \nHo preso la chiave del caveau di nuovo stasera. Ci vediamo a cena. \n- Lester",
         "Guildhall.Set.Location016": "Cappy - \nStavo pulendo il pavimento e ho trovato l’{Item}. L’ho spostato nell’{Location}. L’ho anche lucidato per bene. \n- Grayson",
-        "Guildhall.Procurement.Archives.Primary06": "Cappy - \nScommetto che quella statua è una copia in gesso. Guardala pure quanto vuoi, io sarò in salotto. \n- Albert ",
+        "Guildhall.Procurement.Archives.Primary06": "Cappy - \nScommetto che quella statua è una copia in gesso. Guardala pure quanto vuoi, io sarò nella salotto. \n- Albert ",
         "Guildhall.Set.Location006": "Signor Cappy, \nqualcuno ha lasciato l'{Item} nel lavatoio. Mi è sembrata una cosa interessante, quindi l’ho spostato nell'{Location}. Solo per sicurezza. Spero di aver fatto la cosa giusta. \n- Agente Higgins ",
         "Guildhall.Set.Location010": "Capitano - \nHo deciso di mia iniziativa di spostare l'{Item} nell'{Location}, poiché mi sembra un luogo più sicuro. Confido che sarai d'accordo. \n- Margery",
         "Guildhall.Set.Location027": "Capitano Seawell - \nEcco i tuoi ordini: \nMetti al sicuro l’{Item} vicino all’{Location}. \nInoltre, fai spazzare l’atrio: bisogna essere orgogliosi dell’ambiente che ci circonda. \n- Capo della Polizia L. A. ",
@@ -985,7 +1062,7 @@
         "QuestObjectiveUncomplete": "L'obiettivo della missione non è più completato.",
         "Guildhall.Procurement.Archives.Primary14": "Promemoria: l'interruttore per attivare/disattivare il sistema di sicurezza del caveau si trova ora sulla parete posteriore dell'ufficio. Si prega tutto il personale di prenderne nota. - Ufficio del direttore.",
         "Guildhall.Procurement.Archives.Primary10": "Robinson -\nIl capo dice che si occuperà personalmente del reperto di Warburg. La chiave è nel suo ufficio.\n- Clark",
-        "Guildhall.Procurement.Archives.Primary05": "S -\nIndovina chi ha la chiave del caveau stasera? Già, proprio quel fannullone che passa il turno nella sala d'attesa.\n- K",
+        "Guildhall.Procurement.Archives.Primary05": "S -\nIndovina chi ha la chiave del caveau stasera? Già, proprio quel fannullone che passa il turno nel salotto.\n- K",
         "Guildhall.Set.Location022": "Seawell - \nNon ho trovato alcuna nota relativa alla posizione dell'{Item}. Si trova ancora nell'{Location}? In tal caso, vi prego di aggiornare la scheda. \nGrazie, \nLogan Avery",
         "Guildhall.Procurement.Archives.Primary11": "Shelly - \nSi sospetta che l'effigie di Warburg sia incantata. Il Capo Conestabile Avery tiene la chiave nel suo ufficio per limitarne l'accesso. Io non mi ci metterei a trafficarci.  - Brimsby",
         "Guildhall.Procurement.Tower.VariationA010": "Smythe -\nHo appena scoperto che il Capitano tiene una copia della chiave del caveau nella cassaforte dell'ufficio. A che serve? L'ho fatta cadere nel fossato solo una volta!\n- Verity",
@@ -995,7 +1072,25 @@
         "Guildhall.Procurement.Intro": "Ruba l'Effigie di Warburg",
         "Guildhall.LootTheRoom.Fact": "Ruba tutto quello che riesci a trovare.",
         "SubquestObjectiveComplete": "L'obiettivo della missione secondaria è stato completato!",
-        "SubquestObjectiveUncomplete": "L'obiettivo della missione secondaria non è più completato."
+        "SubquestObjectiveUncomplete": "L'obiettivo della missione secondaria non è più completato.",
+        "Guildhall.Procurement.Tower.VariationA012": "T - \nIl Capitano dice che dovrei tenere la chiave della Caveau della Torre ben stretta al petto, anche durante i giri di ronda nel seminterrato. Di cosa si preoccupa? Dei topi borseggiatori? \n- G",
+        "Guildhall.Procurement.Tower.Vault006": "A TUTTI - \nL'effigie di Warburg verrà collocata nel Caveau della Torre. Magari la salita servirà a rimettere in forma alcuni di voi. \n- Sergente H",
+        "Guildhall.Procurement.Archives.Vault9": "A TUTTI - L'effigie di Warburg non è un giocattolo. L'abbiamo riposta nel Caveau dell'Archivio per un motivo ben preciso. - Sergente H",
+        "Guildhall.Procurement.Archives.Vault1": "L'archivista vuole dare un'occhiata a quella statua prima che parta per Londra. Cerca nei registri dell'Archivio.",
+        "Guildhall.Procurement.Archives.Vault4": "L'Effigie passerà la notte al piano di sopra, negli Archivi. Si parla di stregoneria bavarese. State alla larga. - Nigel",
+        "MatchEnd_2m": "La porta magica scomparirà tra 2 minuti",
+        "MatchEnd_3m": "La porta magica scomparirà tra 3 minuti",
+        "MatchEnd_4m": "La porta magica scomparirà tra 4 minuti",
+        "MatchEnd_5m": "La porta magica scomparirà tra 5 minuti",
+        "Guildhall.Procurement.Fact.VaultLocation": "L'effigie di Warburg si trova nell'{Location}",
+        "Guildhall.Procurement.Fact.Chambers.Key1": "La guardia che ha la chiave del caveau si trova nella sala banchetti",
+        "Guildhall.Procurement.Fact.Archives.Key1": "La guardia che ha la chiave del caveau si trova nel salotto",
+        "Guildhall.Procurement.Fact.Tower.VarB.Safecode": "Le guardie hanno trascinato una cassaforte, con tanto di chiave, in un determinato luogo",
+        "Guildhall.Procurement.Fact.Chambers.Key2": "Il quadro con il cavallo che si trova nell’ufficio apre la cassaforte sulla scrivania",
+        "Guildhall.Procurement.Fact.Tower.VarA.Key2": "Chi ha le chiavi è in cantina ",
+        "Guildhall.Procurement.Fact.Tower.VarA.Safecode": "Il codice della cassaforte dell'ufficio è {Tower}",
+        "Guildhall.Procurement.Fact.Tower.VarB.Key": "La cassaforte contiene la chiave del caveau",
+        "Guildhall.Procurement.Fact.Tower.VarA.Key1": "La cassaforte dell'ufficio contiene una chiave del caveau "
     },
     "WwisePackaging": {
         "FilteredAssets_Header_Language": "Lingua",
@@ -1034,7 +1129,13 @@
         "Contract11.Title": "Indagine storica",
         "Contract12.Description": "Scopri di più sul Patto di Oberon consultando gli antichi registri di famiglia degli Elway.",
         "Contract12.Clue02": "Signorina Elway, Mary, con il suo permesso -\nIl mio collaboratore MacHuey mi ha riferito che in un’area archivistica situata in uno dei corridoi del seminterrato sono rimasti alcuni documenti dall’aspetto molto antico. Mi rendo conto che la questione non rientri direttamente nelle nostre competenze in materia di sicurezza, ma lui teme che i documenti possano essere danneggiati dall’acqua che si è accumulata laggiù. Se ha bisogno di una mano forte per spostare i suoi fascicoli, sarò lieto di darle una mano,\nCordiali saluti,\nCapitano Dunfetter",
-        "Contract12.Clue01": "Portman -\nL'avvocato ha bisogno di alcuni dei vecchi documenti di famiglia che si trovano nel Seminterrato. So che l'umidità ti dà fastidio alla gamba, ma vai a prenderli appena puoi, per favore.\n- Elspeth"
+        "Contract12.Clue01": "Portman -\nL'avvocato ha bisogno di alcuni dei vecchi documenti di famiglia che si trovano nel Seminterrato. So che l'umidità ti dà fastidio alla gamba, ma vai a prenderli appena puoi, per favore.\n- Elspeth",
+        "Contract12.Clue01_Fact": "Gli Elway conservano le loro vecchie memorie nel seminterrato",
+        "Contract12.QuestItem_Name": "Il Contratto di Oberon",
+        "Contract11.QuestItem_Name": "I Fascicoli del Patto di Oberon",
+        "Contract11.Clue02_Facts": "I fascicoli si trovano negli archivi vicino al caveau",
+        "Contract11.Clue01_Facts": "I fascicoli si trovano negli archivi al secondo piano",
+        "Contract12_QuestItem_Clue_Facts": "I documenti sono stati raccolti, ma devono ancora essere decifrati"
     },
     "ST_Contract13_OldMapPt1": {
         "Contract13.Journal": "Un personaggio misterioso ti ha contattato tramite l’Elettrogramma per proporti un contratto “in nero”: recuperare un’antica mappa di Kilcairn che possa aiutarti a individuare la posizione originaria della sesta Pietra di Guardia. Il misterioso contatto ti ha detto che la mappa si trova negli archivi della Caserma dei Conestabili, quindi inizierai la tua ricerca proprio lì.",
@@ -1061,7 +1162,9 @@
         "Contract15.JournalComplete": "Hugh Montgomery, il fidanzato ingannato di Mary Elway, era in realtà una spia al servizio del Kaiser. E, a quanto pare, era anche il tuo “benefattore anonimo”. Il Capo Conestabile Avery ha condotto personalmente l’interrogatorio e sembrava molto interessato a scoprire dove si trovasse la mappa. Sembra che il Capo Conestabile sappia più di quanto tu credessi riguardo a queste vicende. Non hai ancora il terzo pezzo della mappa, ma i pezzi stanno cominciando a incastrarsi.",
         "Contract15.QuestItem_Clue": "Trascrizione dell’interrogatorio\nCapo Conestabile Avery: Puoi smetterla di fingere, Montgomery. Sappiamo che sei un agente del Kaiser. Sappiamo cosa stavi cercando. Tutto quello che ti chiediamo è di dirci dove hai nascosto quella mappa.\nMontgomery: Come vi ho già detto più volte, non ho idea di cosa stiate parlando. Devo davvero insistere affinché mi sia permesso di parlare con il mio avvocato.",
         "Contract15.Description": "Scopri cosa sa la spia del Kaiser riguardo alle Pietre di Guardia.",
-        "Contract15.Clue02": "MacDonald -\nIl Capo Conestabile Avery vuole che trascriva l'interrogatorio. Stanno usando l'area protetta proprio fuori dal caveau... puoi darmi il cambio? Mi innervosisco ogni volta che il Capo Conestabile alza la voce.\n- Campbell"
+        "Contract15.Clue02": "MacDonald -\nIl Capo Conestabile Avery vuole che trascriva l'interrogatorio. Stanno usando l'area protetta proprio fuori dal caveau... puoi darmi il cambio? Mi innervosisco ogni volta che il Capo Conestabile alza la voce.\n- Campbell",
+        "Contract15.QuestItem_Clue_Facts": "Anche il Capo Conestabile sta cercando i pezzi della mappa",
+        "Contract15.Title": "L'uomo del Kaiser a Kilcairn"
     },
     "ST_Contract16_ValuableTrinket": {
         "Contract16.QuestObjectLocation": "Caserma dei Conestabili",
@@ -1070,7 +1173,13 @@
         "Contract16.Intro": "Stimato collega,\nil Capo Conestabile è la chiave.\nDobbiamo scoprire il suo segreto.\nCi terremo in contatto.",
         "Contract16.JournalComplete": "Quando sei entrato nell’ufficio segreto del Capo Conestabile, hai scoperto il suo segreto: lavora direttamente per la Regina e la sua missione è recuperare la Pietra di Guardia. Ciò significa che l’imperatore Guglielmo, lo zar Nicola e la regina Vittoria la stanno cercando tutti! Nel frattempo, la Gilda ne ha bisogno per proteggersi dalle Fate e dal desiderio omicida di Oberon di sacrificare i ladri. Tu possiedi l’unico oggetto magico in grado di localizzare effettivamente la Pietra di Guardia, a patto di trovare la zona giusta in cui cercare. Quante persone sanno che ce l’hai? E cosa potrebbero fare per impossessarsene?\n\nCONTINUA...",
         "Contract16.Description": "Scopri cosa sa il Capo Conestabile.",
-        "Contract16.Clue01": "Ross -\nRiguardo alla tua denuncia secondo cui il Capo Conestabile Avery \"ti ha spaventato a morte\" mentre stavi effettuando un intervento di manutenzione nel suo ufficio ieri sera: cosa vuoi esattamente che faccia al riguardo?\nCapitano Lindell"
+        "Contract16.Clue01": "Ross -\nRiguardo alla tua denuncia secondo cui il Capo Conestabile Avery \"ti ha spaventato a morte\" mentre stavi effettuando un intervento di manutenzione nel suo ufficio ieri sera: cosa vuoi esattamente che faccia al riguardo?\nCapitano Lindell",
+        "Contract16.QuestItem_Clue01_Facts": "Il Capo Conestabile è un funzionario della Corona britannica e sa molto più di quanto ti aspettassi.",
+        "Contract16.Clue01_Facts": "Il Capo Conestabile è riuscito in qualche modo a sorprendere un addetto alla manutenzione nel suo ufficio",
+        "Contract16.Title": "Il segreto del Capo Conestabile",
+        "Contract16.Clue02_Facts": "Il capo sembra essere sparito dal suo ufficio",
+        "Contract16.QuestItem_Name": "Gli appunti del Conestabile",
+        "Contract16.Journal": "La Gilda ritiene che il Capo Conestabile possa avere la chiave per risolvere il mistero delle Pietre di Guardia. Forse è in possesso dell'ultimo pezzo della mappa? In ogni caso, lui sa qualcosa, e l'unico modo per scoprirlo è introdursi di nascosto nella Caserma dei Conestabili un'ultima volta."
     },
     "ST_Social": {
         "Party.PartyMembers": "Membri del Gruppo ({NumMebers}/{MaxMembers})",
@@ -1148,7 +1257,14 @@
         "Contract2.Outro": "Congratulazioni per aver sottratto i fascicoli sul Diamante Vistara, stimato collega. \n\nLi abbiamo esaminati e sono davvero molto interessanti. Sembra che la polizia di Kilcairn tenga sotto controllo molti oggetti di questo tipo. \nPer quanto riguarda il diamante, Montgomery ha pagato una somma piuttosto consistente per introdurlo di nascosto a Kilcairn. Secondo i fascicoli, Mary Elway, la sua futura sposa, ha insistito per riceverlo in cambio dell’accettazione della proposta di matrimonio di Montgomery. \nIl gioiello ha una storia lunga e intricata. Dovremo indagare ulteriormente per sfruttare al meglio questa risorsa. \n\nCi terremo in contatto.",
         "Contract2.Intro": "Stimato collega,\n\nLe indagini sul Diamante Vistara proseguono.\nNuove informazioni indicano che i fascicoli della polizia relativi al gioiello sono molto più corposi di quanto si pensasse in precedenza.\nInfiltrati nella Caserma dei Conestabili, individua e recupera il fascicolo.\n\nTi terremo aggiornato.",
         "Contract2.Description": "Infiltrati nella Caserma e ruba i documenti relativi al Diamante Vistara per scoprirne la storia. Una volta completata la missione, fai rapporto alla Gilda.",
-        "Contract2.Title": "Nella tana del leone"
+        "Contract2.Title": "Nella tana del leone",
+        "Contract2.Clue_01_Fact": "Il Capo Conestabile ha mostrato un interesse personale per il furto del Diamante Vistara.",
+        "Contract2.JournalComplete": "I fascicoli della Polizia sul Diamante Vistara erano molto corposi, ma comunque incompleti. Quello che ora sai con certezza è che la gemma è apparsa a intervalli regolari in varie parti del mondo. È entrata per la prima volta nell’attenzione della Polizia quando è stata saccheggiata da Calcutta circa 50 anni fa. Tuttavia, la polizia sembra sapere ancora meno di te sulla portata del potere della pietra.\n\nFanno comunque notare che la gemma è stata recentemente introdotta di nascosto a Kilcairn da Hugh Montgomery, un ricco erede industriale.",
+        "Contract2.Journal": "La Gilda desidera saperne di più sul Diamante Vistara. In qualità di attuale possessore, sei stato incaricato di condurre le indagini. Il tuo compito è quello di recuperare alcuni fascicoli conservati presso la Caserma dei Conestabili, che si spera possano far luce su questa misteriosa gemma.",
+        "Contract2.Clue_ActualFiles_Facts": "Il Diamante Vistara fu portato a Kilkairn dal signor Hugh Montogomery con mezzi non proprio regolari.",
+        "Contract2.Clue_05_Fact": "I fascicoli relativi al Diamante Vistara stanno venendo studiati al secondo piano.",
+        "Contract2.Clue_04_Fact": "I fascicoli si trovano sulla scrivania di un Conestabile",
+        "Contract2.Clue_02_Fact": "I fascicoli si trovano da qualche parte al secondo piano"
     },
     "ST_EscapeNames": {
         "GH.FirstFloor": "Uscita al 1° piano",
@@ -1213,7 +1329,15 @@
         "Tut_Fey_Find_Map": "Visto che sei nuovo in città, ti servirà una mappa. Puoi anche registrare quell’indizio che hai trovato lì!",
         "Tut_Use_Tool_Map_Change_View": "A proposito di indizi, usa <img id=\"Secondary\"/> per controllare quelli che hai già letto.",
         "Tut_Contract1_Description": "Ruba il Diamante Vistara",
-        "Tut_Use_Stealth_And_Shadows": "Resta nell'ombra e sarai invisibile alle guardie, anche se ti sono vicine!"
+        "Tut_Use_Stealth_And_Shadows": "Resta nell'ombra e sarai invisibile alle guardie, anche se ti sono vicine!",
+        "Tut_Objective_Takedown_Guard": "Stendi la Guardia",
+        "Tut_Use_Mantle": "Premi \"<img id=\"Jump\"/>\" mentre ti avvicini a un ostacolo per scavalcarlo",
+        "Tut_Clue_Get_Key_to_Leave_FACT": "La Gilda dei Ladri vuole che tu rubi il Diamante Vistara come prova di iniziazione.",
+        "Tut_Clue_01_Shop_Info_FACT": "Il Diamante Vistara è esposto in una gioielleria nelle vicinanze.",
+        "Tut_Clue_02_Engagement_FACT": "Il diamante è stato acquistato da Hugh Montgomery come regalo di fidanzamento per Mary Elway.",
+        "Tut_Clue_03_Guard_intel_FACT": "La gioielleria ha solo una guardia in servizio.",
+        "Tut_Use_Tool_Map_Close": "È possibile chiudere la mappa con <img id=\"EquipMap\"/>",
+        "Tut_Use_Tool_Map_Intro": "La mappa ti permette di vedere dove ti trovi e ti mostra anche altri luoghi importanti, se hai scoperto gli indizi giusti. \n\nPer rivedere i tuoi indizi, usa <img id=\"Primary\"/> per consultare l'altra pagina della mappa."
     },
     "ST_Contract4_HiddenSecrets": {
         "Contract5.LootObject_Note_Fact": "Un uovo Fabergé di inestimabile valore è stato rubato da un certo Padre Gregory. ",
@@ -1236,7 +1360,11 @@
         "Contract4.QuestItem_Name": "Pergamena rituale",
         "Contract4.Title": "Segreti da scoprire",
         "Contract4.Clue01_Facts": "A volte gli alti funzionari “scompaiono” in una nicchia vicino al caveau nel seminterrato.",
-        "Contract4.Clue02_Facts": "A volte si sentono strani rumori vicino alla cripta nel seminterrato."
+        "Contract4.Clue02_Facts": "A volte si sentono strani rumori vicino alla cripta nel seminterrato.",
+        "Contract5.QuestObjectLocation": "Il cortile degli Elway",
+        "Contract5.Description": "Gli Elway hanno avuto un ospite speciale a cena che ti ha lasciato un messaggio. Recuperalo.",
+        "Contract5.Clue01_Facts": "Gli Elway hanno trascorso un po’ di tempo con i loro ospiti nel cortile.",
+        "Contract5.Title": "Il Prete Esiliato"
     },
     "ST_Lockpicking": {
         "Locked.Vault.IncorrectKey": "Una chiave del caveau può aprire solo il caveau per cui è stata realizzata. Questo non è il caveau giusto per la chiave che hai. ",
@@ -1262,7 +1390,9 @@
         "Tut_TD_Electrogram": "Senti quel suono? Sarà la Gilda che chiama sull’Elettrogramma. Meglio vedere cosa vogliono.",
         "Tut_TD_Contract_Intro": "Sembra che ci sia un biglietto per te.",
         "Tut_TD_Intro": "Benvenuto nel tua Tana del Ladro. Qui puoi rilassarti, cambiarti d’abito e prendere i tuoi attrezzi. La Gilda ti contatterà inoltre tramite quell’Elettrogramma per comunicarti eventuali incarichi che vorrà affidarti.",
-        "Tut_TD_MapIntro": "Allora, hai ricevuto il tuo prossimo Contratto. Vieni al tavolo con la mappa. Seleziona l'edificio della Caserma dei Conestabili. Lì dovrai portare a termine una missione e potrai anche lavorare al tuo Contratto. Assicurati solo di verificare se stai per partecipare a un'esperienza cooperativa o in solitaria prima di iniziare."
+        "Tut_TD_MapIntro": "Allora, hai ricevuto il tuo prossimo Contratto. Vieni al tavolo con la mappa. Seleziona l'edificio della Caserma dei Conestabili. Lì dovrai portare a termine una missione e potrai anche lavorare al tuo Contratto. Assicurati solo di verificare se stai per partecipare a un'esperienza cooperativa o in solitaria prima di iniziare.",
+        "Tut_TD_Ledger_Contracts": "Il Diario è il resoconto personale del tuo percorso come ladro: qui puoi tenere traccia dei tuoi progressi, dei Contratti passati e di quelli attualmente in corso. Ora dai un’occhiata al Mercato Nero",
+        "Tut_TD_Mirror_Loadout": "Il guardaroba ti consentirà di personalizzare il tuo aspetto e anche di passare da un attrezzo da ladro all'altro tra quelli che hai sbloccato e acquisito."
     },
     "EndgameObjectives": {
         "EndgameObjective.StopThief": "Si è aperta un'uscita. Scappa finché sei in tempo!",
@@ -1280,7 +1410,8 @@
         "Contract10.QuestItem_Name": "Patto di Oberon",
         "Contract10.Clue02": "Portman -\nMi rendo conto che alcune parti della casa siano al momento in condizioni piuttosto fatiscenti, ma nella torre c’è una corrente d’aria che non riesco proprio a spiegarmi. Non si tratta di un problema evidente di sicurezza, ma sono preoccupato per la salute della signorina Rowan, se mi è consentito dirlo.\n- Dunfetter",
         "Contract10.Clue01": "Portman-\nLa signorina Rowan mi ha fatto prendere un tale spavento l’altro giorno. Stavo spolverando il piano terra della Torre e lei è spuntata dal nulla! Ho pensato che il cuore mi avrebbe ceduto lì sul posto!a\n- Margie",
-        "Contract10.Clue01_Facts": "A quanto pare, Rowan ha un posto dove nascondersi vicino alla base della Torre."
+        "Contract10.Clue01_Facts": "A quanto pare, Rowan ha un posto dove nascondersi vicino alla base della Torre.",
+        "Contract10.Journal": "La Gilda vuole che tu raccolga ulteriori informazioni sul simbolo magico rinvenuto vicino al corpo del membro della Gilda assassinato. Ritengono che il simbolo possa comparire in un “certo dipinto” e che quest’ultimo possa trovarsi nella vasta collezione d’arte della famiglia Elway. Il dipinto potrebbe anche essere nascosto tramite la magia. Recati alla Magione Elway e cerca di scoprire tutto ciò che puoi."
     },
     "ST_Contract14_OldMapPt2": {
         "Contract14.QuestItem_Clue": "Mappa antica\nQuesto frammento di pergamena è simile a quello che hai trovato nella Caserma. Grazie ad esso, puoi iniziare a farti un’idea della struttura della città antica. Con il terzo frammento promesso dal tuo benefattore anonimo, sei certo di poter individuare la posizione originaria delle Pietre di Guardia.",
@@ -1291,7 +1422,8 @@
         "Contract14.Title": "Mappare la situazione",
         "Contract14.Clue02": "Mary -\nHo trovato uno strano frammento di pergamena vicino a un fonografo e ho capito subito che doveva essere tuo. Dovresti davvero metterlo insieme alle tue altre cose prima che Rowan te lo porti via.\n- Elspeth",
         "Contract14.Clue01": "Signorina Mary -\nHo trovato un vecchio pezzo di pergamena e non ho la più pallida idea di dove dovrebbe andare. L'ho appoggiato su un tavolo ai piedi della torre, solo per evitare che andasse perso.\n- Margie",
-        "Contract14.QuestItem_Name": "Frammento Mappa Città Vecchia"
+        "Contract14.QuestItem_Name": "Frammento Mappa Città Vecchia",
+        "Contract14.Clue01_Facts": "La governante ha messo una pergamena su un tavolo ai piedi della torre"
     },
     "St_Clues_TextReplacement": {
         "Missions.Archives": "Caveau Archival",
@@ -1322,7 +1454,9 @@
         "Contract7.QuestItem_Clue03": "Gli stivali delle 1000 leghe del Prof. Martin\nFunzionali e dall’aspetto robusto, questi stivali evocano un certo stile controcorrente. E permettono a chi li indossa di percorrere grandi distanze con un solo passo! Secondo i fascicoli dei Conestabili, sono stati rubati dall'Usignolo.",
         "Contract7.QuestObject.Objective": "Recupera gli oggetti rubati dall'Usignolo",
         "Contract7.Clue03_Facts": "Rowan tiene un paio di stivali magici nella torre. ",
-        "Contract7.QuestItem_Name01": "Uovo russo"
+        "Contract7.QuestItem_Name01": "Uovo russo",
+        "Contract7.QuestItem_Clue02": "L'Occhio di Argon\nQuesto gioiello sembra essere uno smeraldo scarlatto, il che in realtà non ha molto senso. Tuttavia, questo lo rende raro. Figurava nell'elenco degli oggetti rubati da Usignolo.",
+        "Contract7.Clue01_Facts": "La governante continua a notare strani oggetti nuovi nella torre. Inoltre Rowan Elway usa una parte della torre come camera da letto."
     },
     "ST_LootInfo": {
         "Loot.Bankenotes": "Banconote",
@@ -1395,7 +1529,13 @@
         "Contract6.Outro": "Saluti, stimato collega.\nL'elenco delle acquisizioni dell'Usignolo è impressionante. Se non fosse per il suo status di indipendente, ne saremmo davvero soddisfatti. Tuttavia, la natura eclatante dei suoi furti potrebbe averla tradita. Chiederemo ai nostri contatti se hanno sentito parlare di una possibile ricomparsa degli oggetti scomparsi.\nCi terremo in contatto.",
         "Contract6.Description": "Trova ulteriori informazioni sull'Usignolo cercando nei fascicoli nella Caserma dei Conestabili.",
         "Contract6.QuestItem_Name": "Fascicolo dell'Usignolo",
-        "Contract6.LootObject_NightingaleFile": "Fascicolo Persona d'Interesse n. PER-89775\n\"Usignolo\"\nNome vero sconosciuto.\nSesso sconosciuto.\nStato: attivo.\nFurti collegati: uovo di Fabergé, L'Occhio di Argon, gli stivali delle 1000 leghe del prof. Martin"
+        "Contract6.LootObject_NightingaleFile": "Fascicolo Persona d'Interesse n. PER-89775\n\"Usignolo\"\nNome vero sconosciuto.\nSesso sconosciuto.\nStato: attivo.\nFurti collegati: uovo di Fabergé, L'Occhio di Argon, gli stivali delle 1000 leghe del prof. Martin",
+        "Contract6.JournalComplete": "Il fascicolo dei Conestabili sull’Usignolo è quasi ridicolo per la sua mancanza di dettagli, ma conteneva almeno un elenco di alcune delle sue recenti acquisizioni. La Gilda approfondirà la questione per verificare se qualcuno di quegli oggetti sia ricomparso dopo il furto.",
+        "Contract6.Journal": "La Gilda ha sfruttato la propria rete per scoprire l'identità, o almeno il nome di battaglia, del ladro di padre Gregory: “Usignolo”. Ti hanno consigliato di cercare un fascicolo sull'Usignolo presso la Caserma dei Conestabili. ",
+        "Contract6.Title": "L'Usignolo",
+        "Contract6.LootObject_NightingaleFile_Fact": "L’Usignolo è responsabile dei furti di un uovo di Fabergé, dell’Occhio di Argon e degli Stivali delle 1000 Leghe del professor Martin",
+        "Contract6.Clue02_Facts": "Il fascicolo si trova all'interno degli archivi",
+        "Contract6.Clue01_Facts": "Il fascicolo si trova al secondo piano della Caserma"
     },
     "ST_OldManor_BasementVault_Clues": {
         "OldManor.Vault.Basement.Clue04.Var2": "Capitano - Pensavo che il posto più sicuro dove mettere quella chiave fosse la stanza segreta vicino alla Galleria. Quindi è lì che l'ho messa. Inoltre, oggi è il compleanno di Harker, quindi gli ho concesso una pausa pranzo più lunga del solito. \n- MacHuey",
@@ -1459,11 +1599,11 @@
         "OldManor.Vault.Tower.Clue02.Var1": "Signorina Elway, Mary, se mi è consentito...\nÈ comprensibile che lei sia preoccupata per il Caveau della Torre, ma stia tranquilla: l’unica chiave è in possesso di una guardia, il mio braccio destro, MacHuey, che è di turno sul balcone più alto. Quindi è al sicuro come non mai!\nNon tema,\nCapitano D",
         "OldManor.Vault.Basement.Clue02.Var2": "Signorina Elway, Mary, se mi è consentito osare  -  \nHo lasciato la chiave a uno dei miei uomini di fiducia. Oggi si trova nella sala banchetti, al secondo piano. Spero che questo possa dissipare ogni sua eventuale preoccupazione.\nCordiali saluti,\nCapitano Dunfetter",
         "OldManor.Vault.Tower.Clue04.Var5": "Signorina Elway, Mary, se mi permette...\nHo deciso di riporre la chiave, per il momento, nella stanza segreta vicino ai suoi alloggi. Qualsiasi altro posto mi sembra scomodo e meno sicuro. Spero proprio che lei sia d’accordo.\nCordiali saluti,\nCapitano Dunfetter",
-        "OldManor.Vault.Gallary.Clue02.Var4": "Signorina Mary -\nMi scusi, ma ho messo quella chiave nella cassaforte della sala comune. Le ricordo che la combinazione per aprirla è {Safe}. Lei e il suo ragazzo resterete a cena?\n- Portman",
+        "OldManor.Vault.Gallary.Clue02.Var4": "Signorina Mary -\nMi scusi, ma ho messo quella chiave nella cassaforte del salotto. Le ricordo che la combinazione per aprirla è {Safe}. Lei e il suo ragazzo resterete a cena?\n- Portman",
         "OldManor.Set.Item1.Var4": "Signorina Mary -\nMi dispiace disturbarti, ma pensavo dovessi sapere che ho spostato l’{Item} all’{Location}. E ti ricordo che martedì ho mezza giornata libera.\nCordiali saluti,\nMargie ",
         "OldManor.Vault.Tower.Clue01.Var3": "Signorina Mary -\nHo chiesto a Margie di portare l’{Item} nel Caveau della Torre, come mi avevi chiesto. Sembra che sia quasi svenuta per la fatica. Devo mandare a chiamare un medico?\n- Portman",
         "OldManor.Vault.Tower.Clue02.Var4": "Signorina Stillcrest, cioè, Margie -\nTi prego, non dimenticarti di me oggi, perché non vedo l’ora di prendere il tè in compagnia sul balcone alto. Tra i miei compiti ci sono quello di stare ben attento e quello di custodire l’unica chiave. Quindi, come puoi vedere, le mie prospettive sono buone.\n- Claude MacHuey",
-        "OldManor.Vault.Gallary.Clue02.Var5": "Cose da fare al mattino per Grigg:\nSvuotare il congelatore.\nMettere la chiave nella cassaforte della sala comune.\nCambiare la combinazione in {Safe}.\nLucidare gli stivali di Hugh.\nFare la spesa per i generi di prima necessità settimanali, secondo i menu di Bert.\nPotrebbero essercene altre più tardi.\n- Mary",
+        "OldManor.Vault.Gallary.Clue02.Var5": "Cose da fare al mattino per Grigg:\nSvuotare il congelatore.\nMettere la chiave nella cassaforte del salotto.\nCambiare la combinazione in {Safe}.\nLucidare gli stivali di Hugh.\nFare la spesa per i generi di prima necessità settimanali, secondo i menu di Bert.\nPotrebbero essercene altre più tardi.\n- Mary",
         "OldManor.Vault.Basement.Clue03.Var2": "Portman -\nPotresti farmi un favore e mostrare al nuovo capitano come accedere alla stanza segreta della galleria? Temo che avrà bisogno di una dimostrazione pratica, dato che gli ho già spiegato due volte che si tratta dell’ornamento a forma di ascia sulla statua del leone. Oggi sarò in città con il mio Hugh.\n- Mary E",
         "OldManor.Vault.Tower.Clue01.Var2": "Portman - \nHo preso quell’{Item} e l’ho messo nel Caveau della Torre come volevi. Oh, poveri i miei polmoni. Non mi riprenderò mai più. Avrò bisogno del resto della giornata libera.\n- Margie",
         "OldManor.Vault.Gallary.Clue01.Var3": "Portman - \nSono sicura che la signorina Elspeth non volesse lasciarlo in giro, quindi ho messo l’{Item} nel Caveau della Galleria. Ho fatto bene?\n- Margie",
@@ -1492,7 +1632,10 @@
         "Contract9.QuestItem_Clue": "Indagine sull'omicidio di Tal de' Tali \nSoggetto: uomo non identificato, rinvenuto nei pressi di uno strano simbolo mistico su un muro.\nSi sospetta un atto doloso. Il soggetto aveva con sé attrezzi da scasso.\n\nDal Capo Conestabile: Non mi interessa se quest'uomo fosse un ladro o il Principe di Galles. È stato assassinato e voglio che il caso venga risolto!",
         "Contract9.Clue01_Facts": "Le informazioni sul ladro scomparso si trovano al secondo piano",
         "Contract9.Title": "Mancante",
-        "Contract9.QuestItem_Name": "Fascicolo sul ladro scomparso"
+        "Contract9.QuestItem_Name": "Fascicolo sul ladro scomparso",
+        "Contract9.Clue01": "Il Capo Conestabile ci ha chiesto di dare priorità al caso della persona non identificata, quindi abbiamo trasferito il materiale investigativo in un luogo sicuro al secondo piano.",
+        "Contract9.Journal": "La Maestra della Gilda ti ha richiesto espressamente di occuparti delle ricerche, nell'ambito di un incarico, di un ladro della Gilda scomparso. La Gilda ritiene che il ladro possa essere trattenuto presso la Caserma della Gilda. In caso contrario, gli agenti potrebbero almeno avere delle piste che conducano al luogo in cui si trova.",
+        "Contract9.JournalComplete": "I Conestabili hanno rinvenuto il cadavere di una vittima di omicidio che corrispondeva alla descrizione del ladro della Gilda scomparso. Secondo il rapporto della polizia, la vittima è stata rinvenuta nei pressi di un simbolo magico non identificato. La Gilda non ha accolto di buon grado la notizia e la sua reazione sembrava suggerire che potesse sapere più di quanto fosse disposta a rivelarti su quanto accaduto."
     },
     "ATATSwingingDoor": {
         "ClosePrompt": "Chiudi",
@@ -1533,7 +1676,13 @@
     "ST_MatchQuest_Facts_Abbessford": {
         "OldManor.Set.Briefing": "Trova tutte le Urne di Claymur nella Magione Elway. Hanno valore solo se complete. ",
         "OldManor.Briefing": "Trova la cassaforte giusta e prendi ciò per cui sei venuto!",
-        "Oldmanor.LootTheRoom": "Ruba il più possibile per raggiungere la quota della Gilda!"
+        "Oldmanor.LootTheRoom": "Ruba il più possibile per raggiungere la quota della Gilda!",
+        "OldManor.TowerVault.Key1_0": "La guardia che ha la chiave si trova sul balcone dell'edificio principale. ",
+        "OldManor.GallaryVault.Key1": "Il codice della cassaforte nel salotto è {Safe}. All’interno si trova la chiave della caveau. ",
+        "OldManor.BasementVault.Key": "La guardia che ha la chiave del caveau si trova nella sala banchetti al secondo piano",
+        "OldManor.General.Hauntstables.Var1.FACT": "Le guardie sono state avvertite di non riprodurre dischi nelle vicinanze degli Spettrostabili.",
+        "OldManor.General.Hauntstables.Var2.FACT": "La cameriera ha accidentalmente neutralizzato un Spettrostabile riproducendo della musica nelle sue vicinanze.",
+        "OldManor.Vault": "Il bottino della missione si trova nel {VaultLocation}. Per accedervi ti servirà una chiave"
     },
     "TATLockpickingSettings": {
         "LockPrompt": "Blocca",
@@ -1559,5 +1708,8 @@
         "StealItemObjective.Purloin": "Ruba {Item}",
         "LootValueObjective.Default": "Ruba {Amount} in valore di bottino",
         "StealItemObjective.Default": "Ruba {Item}"
+    },
+    "ItemActor": {
+        "TakePrompt": "Prendi"
     }
 }
